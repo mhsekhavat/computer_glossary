@@ -3,6 +3,7 @@ A Utility for looking up meaningfull persian translation of computer terms
 Contributions are welcome:
 * Web/Console/Desktop UI
 * Add content to `words/*`
+* Export/import to/from other formats
 * Any other idea
 
 ## Usage
