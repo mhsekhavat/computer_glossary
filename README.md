@@ -11,6 +11,5 @@ Contributions are welcome:
 ## Usage
 ```
 git clone https://github.com/mhsekhavat/computer_glossary.git
-cd computer_glossary
-./lookup.sh <a word>
+computer_glossary/lookup.sh <a word>
 ```
