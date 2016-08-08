@@ -1,0 +1,1490 @@
+Area	Type	**	Abbr	Word	Translation	Link	
+13	D			absolute performance guarantee	ÖãÇäÊ ßÇÑÇíí ãØáŞ	absolute	
+2	D	&	ADT	abstract data type	ÏÇÏåæäåí ÇäÊÒÇÚí	abstractDataType	
+1	D			accepting state	ÍÇáÊ ĞíÑİÊäí	acceptingstt	
+2	A			Ackerman's function	ÊÇÈÚ ÇóßÑãä	ackermann	
+2	A			Ackermann's function	ÊÇÈÚ ÇóßÑãä	ackermann	
+7	D			acyclic digraph	ÑÇİ ÌåÊÏÇÑ ÈíÏæÑ	directAcycGraph	
+7	D			acyclic directed graph	ÑÇİ ÌåÊÏÇÑ ÈíÏæÑ	directAcycGraph	
+7	D			acyclic graph	ÑÇİ ÈíÏæÑ	acyclicgraph	
+12	A			adaptive heap sort	ãÑÊÈÓÇÒ åÑãí ÊØÇÈŞí	adaptiveHeapSort	
+12	A	**		adaptive heapsort	ãÑÊÈÓÇÒ åÑãí ÊØÇÈŞí	adaptiveHeapSort	
+11	S			adaptive k-d tree	ÏÑÎÊ ßíÏí ÊØÇÈŞí	adaptkdtree	
+12	D			adaptive sort	ãÑÊÈÓÇÒ ÊØÇÈŞí	adaptivesort	
+12	A			address-calculation sort	ãÑÊÈÓÇÒ ãÍÇÓÈåÑ ÂÏÑÓ	addresscalc	
+7	S			adjacency-list representation	äãÇíÔ áíÓÊ ãÌÇæÑÊ	adjacencyListRep	
+7	S			adjacency-matrix representation	äãÇíÔ ãÇÊÑíÓ ãÌÇæÑÊ	adjacencyMatrixRep	
+7	S			adjacency list	áíÓÊ ãÌÇæÑÊ	adjacencyListRep	
+7	S			adjacency matrix	ãÇÊÑíÓ ãÌÇæÑÊ	adjacencyMatrixRep	
+7	D			adjacent	ãÌÇæÑ	adjacent	
+7	D			admissible vertex	ÑÃÓ ãÌÇÒ	admissible	
+2	D	/		ADT	abstract data type	abstractDataType	
+13	D			adversary	ÑŞíÈ	adversary	
+2	D			algorithm	ÇáæÑíÊã	algorithm	
+8	A			algorithm B	ÇáæÑíÊã Èí	binaryGCD	
+7	P			all pairs shortest path	ßæÊÇåÊÑíä ãÓíÑ Èíä åÑ Ïæ ÑÃÓ	allpairsshrt	
+1	D			alphabet	ÇáİÈÇ	alphabet	
+7	D			alternating path	ãÓíÑ ÊäÇæÈí	alterntngpth	
+1	D			alternating Turing machine	ãÇÔíä ÊæÑíä ÊäÇæÈí	alternatngTr	
+13	D			alternation	ÊäÇæÈ	alternation	
+13	D			amortized cost	åÒíäåí ÓÑÔßäÔÏå	amortizdcost	
+13	D			amortized worst case	ÈÏÊÑíä ÍÇáÊ ÓÑÔßäÔÏå	amortizdcost	
+14	D			ancestor	ÌóÏ	ancestor	
+2	D			and	æ	and	
+2	D			ANSI	ãÄÓÓåí ÇÓÊÇäÏÇÑÏ ãáí ÇãÑíßÇ	ansi	
+2	D			antichain	ÇÏÒäÌíÑå	antichain	
+2	D			antisymmetric	ÇÏãÊŞÇÑä	antisymmetric	
+13	T			approximation algorithm	ÇáæÑíÊã ÊŞÑíÈí	approximatin	
+7	D			arc	ßãÇä	edge	
+2	S			array	ÂÑÇíå	array	
+2	D			array index	ÇäÏíÓ ÂÑÇíå	arrayindex	
+2	A			array merging	ÇÏÛÇã ÂÑÇíå	arraymerg	
+7	D			articulation point	ãóİÕá	cutvertex	
+7	D			articulation vertex	ãóİÕá	cutvertex	
+7	P			assignment problem	ãÓÆáåí ãÇÑÔ	assignment	
+11	S			association list	áíÓÊ ÔÑßÊĞíÑí	dictionary	
+2	D			associative	ÔÑßÊĞíÑí (ÇäÌãäí)	associative	
+2	S			associative array	ÂÑÇíåí ÇäÌãäí	assocarray	
+13	D			asymptotic bound	ßÑÇä ãÌÇäÈí	asymptoticBound	
+13	D	**		asymptotic equipartition property	æíí ÇİÑÇÒ ãÓÇæí ãÌÇäÈí¿	asymptoticEquiProp	
+13	D			asymptotic lower bound	ßÑÇä Çííä ãÌÇäÈí	asymptoticLowerBound	
+13	D			asymptotic space complexity	ííÏí ÍÇİÙåí ãÌÇäÈí	asymptoticSpaceComplexity	
+13	D			asymptotic time complexity	ííÏí ÒãÇäí ãÌÇäÈí	asymptoticTimeComplexity	
+13	D			asymptotic upper bound	ßÑÇä ÈÇáÇí ãÌÇäÈí	asymptoticUpperBound	
+2	D			asymptotically equal to	ÊÓÇæí ãÌÇäÈí	sim	
+13	D			asymptotically tight bound	ßÑÇä ÏŞíŞ ãÌÇäÈí	asymptoticallyTightBound	
+7	D			augmenting path	ãÓíÑ ÇİÒÇíÔí	augmentngpth	
+1	D	¿		automaton	ÇÊæãÇÊæä (ãÇÔíä ÎæÏßÇÑ)	automaton	
+1	D			automaton simulation	ÔÈíåÓÇÒí ÇÊæãÇÊæä	automatonsim	
+2	D			average-case	ÍÇáÊ ãÊæÓØ	averagecase	
+13	D			average-case cost	åÒíäåí ÍÇáÊ ãÊæÓØ	averagecscst	
+14	S			AVL tree	ÏÑÎÊ ÇöíæíÇöá	avltree	
+14	S			B+-tree	ÏÑÎÊ ÈíáÇÓ	bplustree	
+2	T			backtracking	ÓÑÏ	backtrack	
+2	D	¿		bag	ÑÏÇíå (ãÌãæÚåí äÏÇäå)	bag	
+14	D			balance	ÊæÇÒä	balance	
+14	S			balanced binary search tree	ÏÑÎÊ ÏæÏæíí ÌÓÊæÌæí ãÊæÇÒä	balancedbist	
+14	S			balanced binary tree	ÏÑÎÊ ÏæÏæíí ãÊæÇÒä	balancedbitr	
+12	A			balanced k-way merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí k-ÑÇåí ãÊæÇÒä	balanckwayms	
+12	A			balanced merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí ãÊæÇÒä	balancmrgsrt	
+12	A			balanced multiway merge	ÇÏÛÇã äÏÑÇåí ãÊæÇÒä	balancedMultiwayMerge	
+16	N			balanced node	Ñåí ãÊæÇÒä	balancednod	
+12	A			balanced quicksort	ãÑÊÈÓÇÒ ÓÑíÚ ãÊæÇÒä	balancedqsrt	
+12	A			balanced two-way merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí ÏæÑÇåí ãÊæÇÒä	balanc2wayms	
+7	A			Bellman-Ford algorithm	ÇáæÑíÊã Èáãä-İæÑÏ	bellmanford	
+8	D			Benford's law	ŞÇäæä ÈäİæÑÏ	benfordslaw	
+2	D			best-case	ÈåÊÑíä ÍÇáÊ	bestcase	
+13	D			best-case cost	åÒíäåí ÈåÊÑíä ÍÇáÊ	bestcasecost	
+7	A			best first search	ÌÓÊæÌæí ÈåÊÑÇæøá	bestfirst	
+7	D			biconnected component	ãÄáİåí ÏæåãÈäÏ	bicnnctdcmpn	
+7	D			biconnected graph	ÑÇİ ÏæåãÈäÏ	biconnectedGraph	
+12	A			bidirectional bubble sort	ãÑÊÈÓÇÒ ÍÈÇÈí ÏæÌåÊå	bidirectbubl	
+2	D			big-O notation	äãÇÏ Çõíö ÈÒÑ	bigOnotation	
+12	A	¿		bin sort	ãÑÊÈÓÇÒ ÓØáí	bucketsort	
+2	D			binary function	ÊÇÈÚ ÏæÏæíí	binaryfunc	
+8	A			binary GCD algorithm	ÇáæÑíÊã Èãã ÏæÏæíí	binaryGCD	
+12	A			binary insertion sort	ãÑÊÈÓÇÒ ÏÑÌí ÏæÏæíí	binaryinsort	
+14	S			binary priority queue	Õİ ÇæáæíÊ ÏæÏæíí	binarypriorq	
+2	D			binary relation	ÑÇÈØåí ÏæÏæíí	binaryrelatn	
+11	A			binary search	ÌÓÊæÌæí ÏæÏæíí	binarySearch	
+16	N			binary trie	ÊöÑÇí ÏæÏæíí	binarytrie	
+12	A			bingo sort	ãÑÊÈÓÇÒ Èíäæ	bingosort	
+7	D			bipartite graph	ÑÇİ ÏæÈÎÔí	bipartgraph	
+7	D			bipartite matching	ÊØÇÈŞ ÏæÈÎÔí	bipartmatch	
+6	D			bisector	äíãÓÇÒ	bisector	
+2	S			bit vector	ÂÑÇíåí ÈíÊí	bitVector	
+11	D			block	Èáæß	block	
+7	D	¿		blocking flow	ÔÇÑåí ÇäÓÏÇÏí	blockingflow	
+7	D	¿		blossom	Ôßæİå	blossom	
+2	D			boolean	Èæáí	boolean	
+2	D			boolean expression	ÚÈÇÑÊ Èæáí	booleanexpr	
+2	D			boolean function	ÊÇÈÚ Èæáí	booleanfnctn	
+7	P			bottleneck traveling salesman	İÑæÔäÏåí ÏæÑåÑÏ ÈÇ áæÇå	bottleneckTravelingSales	
+12	A			bottom-up radix sort	ãÑÊÈÓÇÒ ãÈäÇíí Çííä Èå ÈÇáÇ	bottomuprdx	
+1	D			bottom-up tree automaton	ÇÊæãÇÊæä ÏÑÎÊí Çííä Èå ÈÇáÇ	bottmptrtmtn	
+6	D			boundary-based representation	äãÇíÔ ãÈÊäí ÈÑ ßÑÇäå	boundarybasd	
+2	S			bounded queue	Õİ ßÑÇäÏÇÑ	boundedqueue	
+2	S			bounded stack	ÔÊåí ßÑÇäÏÇÑ	boundedstack	
+11	A			branch and bound	ÇäÔÚÇÈ æ ÍÏ	branchNbound	
+7	D			branching	ÇäÔÚÇÈ	branching	
+7	A			breadth first search	ÌÓÊæÌæí ÓØÍÇæøá	breadthfirst	
+6	A	*		Bresenham's algorithm	ÇáæÑíÊã ÈÑÒäåÇã	bresenham	
+12	A			brick sort	ãÑÊÈÓÇÒ ÎÔÊí	brickSort	
+7	D			bridge	á	bridge	
+13	T			British Museum algorithm	ÇáæÑíÊã ãæÒåí ÇäáíÓí	britishmusm	
+2	T	¿		brute force	ßæÑßæÑÇäå	bruteforce	
+11	S			BSP-tree	ÏÑÎÊ ÈíÇÓí	bsptree	
+12	A			bubble sort	ãÑÊÈÓÇÒ ÍÈÇÈí	bubblesort	
+2	D			bucket	ÓØá	bucket	
+11	S			bucket array	ÂÑÇíåí ÓØáí	bucketarray	
+12	A			bucket sort	ãÑÊÈÓÇÒ ÓØáí	bucketsort	
+6	D			bucketing method	ÑæÔ ÓØáÈäÏí	bucketmeth	
+2	P	¿		Byzantine Agreement Problem	ãÓÆáåí ãÚÇåÏåí Ñæãí	byzantine	
+2	P			Byzantine generals	äÑÇáåÇí Ñæãí	byzantine	
+13	D	&	CCS	Calculus of Communicating Systems	ÍÓÇÈÇä ÓíÓÊãåÇí ÇÑÊÈÇØí	calcucommsys	
+13	D			canonical complexity class	ÑÏåí ííÏí ãÊÚÇÑİ (ßÇäæäí)	canonical	
+6	P	¿		capacitated facility location	ãßÇäíÇÈí ÊÓåíáÇÊ ÈÇ ÙÑİíÊ ãÍÏæÏ	capacifacloc	
+7	D			capacity	ÙÑİíÊ	capacity	
+7	D			capacity constraint	ŞíÏ ÙÑİíÊ	capacitycstr	
+13	D	/		CCS	Calculus of Communicating Systems	ccs	
+13	D			cell probe model	ãÏá æÇÑÓí Óáæá	cellProbeModel	
+1	D			cellular automaton	ÇÊæãÇÊæä Óáæáí	cellulartmtn	
+8	D			centroid	ãÑßÒ ËŞá	centroid	
+7	D			certificate	æÇåí	certificate	
+2	D			chain	ÒäÌíÑå	chain	
+14	D			child	İÑÒäÏ	child	
+7	P			Chinese postman problem	ãÓÆáåí ÓÊí íäí	chinesePostman	
+8	A			Chinese remainder theorem	ŞÖíåí ÈÇŞíãÇäÏåí íäí	chineseRmndr	
+7	A			Christofides algorithm	ÇáæÑíÊã ßÑíÓÊİÇíÏ	christofides	
+7	A			Christofides heuristic	ãßÇÔİåí ßÑíÓÊİÇíÏ	christofides	
+7	D			chromatic index	ÔÇÎÕ Ñäí	chromaticndx	
+7	D			chromatic number	ÚÏÏ Ñäí	chromatcnmbr	
+13	D			Church-Turing thesis	ÊÒ Ñ-ÊæÑíä	churchTuringThesis	
+2	D			circuit	ãÏÇÑ	circuit	
+2	D			circuit complexity	ííÏí ãÏÇÑ	circuitComplexity	
+2	D			circuit value problem	ãÓÆáåí ÇÑÒÔ ãÏÇÑ	circuitvalue	
+2	S			circular list	áíÓÊ ÍáŞæí	circularlist	
+16	N			circular path	ãÓíÑ ÏæÑí	circularpth	
+2	S			circular queue	Õİ ÍáŞæí	circularQueue	
+7	D			clique	ÎæÔå	clique	
+7	P			clique problem	ãÓÆáåí ÎæÔå	cliqueproblm	
+2	T			collective recursion	ÈÇÒÔÊ ÊÌãÚí	collectrecur	
+11	D			collision	ÊÕÇÏã	collision	
+12	A			comb sort	ãÑÊÈÓÇÒ ÔÇäåÇí	diminishingIncSort	
+13	D	&	CSP	Communicating Sequential Processes	ÑÏÇÒååÇí ÊÑÊíÈí ãÑÊÈØ	communseqpro	
+2	D			commutative	ÌÇÈåÌÇíí	commutative	
+12	D			comparison sort	ãÑÊÈÓÇÒ ãŞÇíÓåÇí	comparisnsrt	
+13	D			competitive analysis	ÊÍáíá ÑŞÇÈÊí	competitiveAnalysis	
+13	D			competitive ratio	äÓÈÊ ÑŞÇÈÊí	competitivrt	
+2	D			complement	ãßãá	complement	
+14	D			complete binary tree	ÏÑÎÊ ÏæÏæíí ßÇãá	completeBinaryTree	
+7	D			complete graph	ÑÇİ ßÇãá	completeGraph	
+14	D			complete tree	ÏÑÎÊ ßÇãá	completetree	
+13	D			complexity	ííÏí	complexity	
+13	D			complexity class	ÑÏåí ííÏí	complexityClass	
+2	D	**		compliment	ãßãá	complement	
+13	D			computable	ãÍÇÓÈåĞíÑ	computable	
+13	D			computable function	ÊÇÈÚ ãÍÇÓÈåĞíÑ	computable	
+6	D			concave function	ÊÇÈÚ ãŞÚÑ	concavefunct	
+7	D			concurrent flow	ÔÇÑåí åãÒãÇä	concurrntflw	
+1	D			configuration	íßÑÈäÏí	instantaneos	
+2	D			conjunction	ÊÑßíÈ ÚØİí	conjunction	
+7	D			connected component	ãÄáİååÇí åãÈäÏ	connectedComponent	
+7	D			connected graph	ÑÇİ åãÈäÏ	connectedGraph	
+13	D			coNP	ßæ Çöäí	coNP	
+2	D			constant function	ÊÇÈÚ ËÇÈÊ	constantfunc	
+3	P			continuous knapsack problem	ãÓÆáåí ßæáåÔÊí íæÓÊå	fractionalKnapsack	
+13	D			Cook's theorem	ŞÖíåí ßæß	cookstheorem	
+13	D			Cook reduction	ßÇåÔ ßæß	cookreductin	
+12	A			counting sort	ãÑÊÈÓÇÒ ÔãÇÑÔí	countingsort	
+7	P			critical path problem	ãÓÆáåí ãÓíÑ ÈÍÑÇäí	criticalPath	
+7	D			cut	ÈÑÔ	cut	
+7	D			cut vertex	ÑÃÓ ÈÑÔí	cutvertex	
+6	D			cutting plane	ÕİÍåí ÈÑÔí	cuttingplane	
+6	D			cutting theorem	ŞÖíåí ÈÑÔí	cuttingtherm	
+7	D			cycle	ÏæÑ	cycle	
+7	D	/		DAG	directed acyclic graph	directAcycGraph	
+7	A			DAG shortest paths	ßæÊÇåÊÑíä ãÓíÑåÇ ÏÑ ÑÇİ ÈíÏæÑ ÌåÊÏÇÑ	dagShortPath	
+7	D	/		DASG	directed acyclic subsequence graph	directedAcyclicSubseqGraph	
+2	S			data structure	ÏÇÏåÓÇÎÊÇÑ	datastructur	
+11	S			database	ÏÇÏåÇíÇå	dictionary	
+13	D			decidable	ÊÕãíãĞíÑ	decidable	
+13	D			decidable language	ÒÈÇä ÊÕãíãĞíÑ	decidableLanguage	
+13	D			decision problem	ãÓÆáåí ÊÕãíã	decisionProblem	
+16	N			decision tree	ÏÑÎÊ ÊÕãíã	decisiontree	
+6	D			decomposable searching problem	ãÓÆáåí ÌÓÊæÌæí ÊÌÒíåĞíÑ	decomposable	
+7	D			degree	ÏÑÌå	degree	
+16	N			degree-k graph	ÑÇİ ÏÑÌå k	degreekgraph	
+2	A			delete	ÍĞİ	delete	
+7	D			dense graph	ÑÇİ ãÊÑÇßã	densegraph	
+14	D			depth	ÚãŞ	depth	
+7	A	&	DFS	depth first search	ÌÓÊæÌæí ÚãŞÇæøá	depthfirst	
+2	S			deque	Õİ ÏæÓÑ	deque	
+12	A			derangement	ÑíÔ	derangement	
+14	D			descendant	äæÇÏå	descendant	
+13	D			deterministic	ŞØÚí	deterministc	
+2	T			deterministic algorithm	ÇáæÑíÊã ŞØÚí	determinalgo	
+1	D	&	DFA	deterministic finite automaton	ÇÊæãÇÊæä ãÊäÇåí ŞØÚí	determFinitStateMach	
+1	D			deterministic finite state automaton	ÇÊæãÇÊæä ÍÇáÊ ãÊäÇåí ŞØÚí	determFinitStateMach	
+1	D			deterministic finite state machine	ãÇÔíä ÍÇáÊ ãÊäÇåí ŞØÚí	determFinitStateMach	
+1	D	&	DFTA	deterministic finite tree automaton	ÇÊæãÇÊæä ÏÑÎÊí ãÊäÇåí ŞØÚí	determFinitTreeAutom	
+1	D	&	DPDA	deterministic pushdown automaton	ÇÊæãÇÊæä ÔÊåÇí ŞØÚí	determpushda	
+1	D			deterministic tree automaton	ÇÊæãÇÊæä ÏÑÎÊí ŞØÚí	detrmtreeaut	
+10	A			Deutsch-Jozsa algorithm	ÇáæÑíÊã Ïæí-ÌæÒÇ	deutschJozsaAlgo	
+1	D	/		DFA	deterministic finite automaton	determFinitStateMach	
+7	A	/		DFS	depth first search	depthfirst	
+7	D			DFS forest	Ìäá ÌÓÊæÌæí ÚãŞÇæøá	dFSforest	
+1	D	/		DFTA	deterministic finite tree automaton	determFinitTreeAutom	
+13	D			diagonalization	ŞØÑí ßÑÏä	diagonaliztn	
+7	D			diameter	ŞØÑ	diameter	
+11	S			dictionary	İÑåä ÏÇÏåÇí	dictionary	
+2	D			difference	ÊİÇÖá	difference	
+7	S			digraph	ÑÇİ ÌåÊÏÇÑ	directgraph	
+7	A			Dijkstra's algorithm	ÇáæÑíÊã ÏÇíßÓÊÑÇ	dijkstraalgo	
+12	A	¿		diminishing increment sort	ãÑÊÈÓÇÒ ÔÇäåÇí	diminishingIncSort	
+13	P	¿		dining philosophers	İíáÓæİåÇí ÑÓäå	diningphilos	
+7	D	&	DAG	directed acyclic graph	ÑÇİ ÈíÏæÑ ÌåÊÏÇÑ	directAcycGraph	
+16	N	&	DASG	directed acyclic subsequence graph	ÑÇİ ÒíÑÏäÈÇáåí ÈíÏæÑ ÌåÊÏÇÑ	directedAcyclicSubseqGraph	
+7	S			directed graph	ÑÇİ ÌåÊÏÇÑ	directgraph	
+6	P			discrete p-center	 p-ãÑßÒ ÓÓÊå	discretpcntr	
+16	N			disjoint-set data structure	ÏÇÏåÓÇÎÊÇÑ ãÌãæÚåí ãÌÒÇ	disjntstdtst	
+16	N			disjoint-set forest	Ìäá ãÌãæÚåí ãÌÒÇ	disjntstfrst	
+2	D			disjoint set	ãÌãæÚåí ãÌÒÇ	disjointset	
+2	D			disjunction	ÊÑßíÈ İÕáí	disjunction	
+12	A			distribution sort	ãÑÊÈÓÇÒ ÊæÒíÚí	distributionSort	
+13	D			distributional complexity	ííÏí ÊæÒíÚí	distributionalComplex	
+2	T			divide and conquer	ÊŞÓíãæÍá	divideconqr	
+2	T			divide and marriage before conquest	ÊŞÓíã æ ÊÑßíÈ íÔ ÇÒ Íá	dividemarrig	
+2	D			domain	ÏÇãäå	domain	
+2	A	¿		Doomsday rule	ŞÇäæä ÑæÒ ÑÓÊÇÎíÒ (ÑæÒÔãÇÑ)	doomsday	
+12	A			double-direction bubble sort	ãÑÊÈÓÇÒ ÍÈÇÈí ÏæÌåÊå	bidirectbubl	
+11	A			double hashing	ÏÑåãÓÇÒí ãÖÇÚİ	doublehashng	
+16	N			double rotation	ÏæÑÇä ãÖÇÚİ	doublerottn	
+2	S			doubly-ended queue	Õİö ÏæÓÑ	deque	
+2	S			doubly linked list	áíÓÊ íæäÏí ÏæØÑİå	doublyLinkedList	
+1	D	/		DPDA	deterministic pushdown automaton	determpushda	
+7	D			dual	ÏæÇä	dual	
+12	A	**		Dutch national flag	Ñã ãáí åáäÏ¿	dutchnatlflg	
+3	D			dynamic	æíÇ	dynamic	
+2	S			dynamic array	ÂÑÇíåí æíÇ	dynamicarray	
+16	N			dynamic hashing	ÏÑåãÓÇÒí æíÇ	dynamicHashing	
+3	T			dynamic programming	ÈÑäÇãåÑíÒí æíÇ	dynamicprog	
+16	N			dynamic tree	ÏÑÎÊ æíÇ	dynamictree	
+2	T			dynamization transformation	ÊÈÏíá æíÇÓÇÒí	dynamization	
+7	D			edge	íÇá	edge	
+7	D			edge coloring	ÑäÂãíÒí íÇáí	edgecoloring	
+7	D			edge connectivity	åãÈäÏí íÇáí	edgeConnectivity	
+7	D	¿		edge crossing	ÊŞÇØÚ íÇáí	edgecrossing	
+2	D			efficiency	ßÇÑÇíí	efficiency	
+13	P			element uniqueness	íßÊÇíí ÇÚÖÇ	elementnqnss	
+5	S			EM data structure	ÏÇÏåÓÇÎÊÇÑ ÍÇİÙåí ÎÇÑÌí	externalMemoryDataStr	
+8	A			Euclid's algorithm	ÇáæÑíÊã ÇŞáíÏÓ	euclidalgo	
+8	A			Euclidean algorithm	ÇáæÑíÊã ÇŞáíÏÓí	euclidalgo	
+6	D			Euclidean distance	İÇÕáåí ÇŞáíÏÓí	euclidndstnc	
+7	D			Euclidean Steiner tree	ÏÑÎÊ ÇÔÊÇíäÑ ÇŞáíÏÓí	euclidstntre	
+13	P			Euclidean traveling salesman problem	ãÓÆáåí İÑæÔäÏåí ÏæÑåÑÏ ÇŞáíÏÓí	euclidntrvls	
+7	D			Euler cycle	ÏæÑ ÇæíáÑí	eulercycle	
+7	D			Euler tour	ÊæÑ ÇæíáÑí	eulercycle	
+7	D			Eulerian graph	ÑÇİ ÇæíáÑí	euleriangrph	
+7	D			Eulerian path	ãÓíÑ ÇæíáÑí	eulercycle	
+12	A			exchange sort	ãÑÊÈÓÇÒ ÊÚæíÖí	bubblesort	
+2	D			exclusive or	íÇí ÇäÍÕÇÑí (ãÇäÚÇáÌãÚ)	xor	
+1	D			existential state	ÍÇáÊ æÌæÏí	existentlstt	
+6	D			expander graph	ÑÇİ ÊæÓÚåÏåäÏå	expandergrph	
+13	D			exponential	äãÇíí	exponential	
+8	A			extended Euclid's algorithm	ÇáæÑíÊã ÇŞáíÏÓ ÓÊÑÔíÇİÊå	extendEuclid	
+5	A			external memory algorithm	ÇáæÑíÊã ÍÇİÙåí ÎÇÑÌí	externalMemoryAlgo	
+5	S			external memory data structure	ÏÇÏåÓÇÎÊÇÑ ÍÇİÙåí ÎÇÑÌí	externalMemoryDataStr	
+12	A			external merge	ÇÏÛÇã ÎÇÑÌí	externalmerg	
+12	A			external merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí ÎÇÑÌí	externmrgsrt	
+12	A			external quicksort	ãÑÊÈÓÇÒ ÓÑíÚ ÎÇÑÌí	externquiksr	
+12	A			external radix sort	ãÑÊÈÓÇÒ ãÈäÇíí ÎÇÑÌí	extrnlrdxsrt	
+12	D			external sort	ãÑÊÈÓÇÒ ÎÇÑÌí	externalsort	
+6	D			extreme point	äŞØåí ßõäÌ	extremepoint	
+6	P			facility location	ãßÇäíÇÈí ÊÓåíáÇÊ	facilityloc	
+8	D			factorial	İÇßÊæÑíá	factorial	
+13	D			feasible region	äÇÍíåí ÇãßÇäĞíÑ	feasibleregn	
+13	D			feasible solution	ÌæÇÈ ÇãßÇäĞíÑ	feasiblesltn	
+7	D			feedback edge	íÇá ÈÇÒÎæÑ (ÓÎæÑÏ)	feedbackedge	
+8	A			Ferguson-Forcade algorithm	ÇáæÑíÊã İÑæÓä-İõÑßíÏ	fergusonForcade	
+8	D			Fibonacci number	ÚÏÏ İíÈæäÇí	fibonacciNumber	
+8	D			Fibonacci numbers	ÇÚÏÇÏ İíÈæäÇí	fibonacciNumber	
+2	S	/		FIFO	first-in, first-out	queue	
+1	D			finite automaton	ÇÊæãÇÊæä ãÊäÇåí	finiteStateMachine	
+8	A			finite Fourier transform	ÊÈÏíá İæÑíåí ãÊäÇåí	finiteFourierTransform	
+1	D			finite state automaton	ÇÊæãÇÊæä ÍÇáÊ ãÊäÇåí	finiteStateMachine	
+1	D			finite state machine	ãÇÔíä ÍÇáÊ ãÊäÇåí	finiteStateMachine	
+1	P			finite state machine minimization	ßãíäåÓÇÒí ãÇÔíä ÍÇáÊ ãÊäÇåí	finitestmmin	
+1	D			finite state transducer	ãÈÏá ÍÇáÊãÊäÇåí	finsttransdu	
+2	D	&	FIFO	first-in, first-out	Çæáíä æÑæÏí- Çæáíä ÎÑæÌí	firstinfrstt	
+6	D			fixed-grid method	ÑæÔ ÊæÑíö ËÇÈÊ	fixedgrdmthd	
+12	A	¿		flash sort	ãÑÊÈÓÇÒ ÑÊæí	flashsort	
+7	D			flow	ÔÇÑå	flow	
+7	D			flow conservation	ÈŞÇí ÔÇÑå	flowconsrvtn	
+7	D			flow function	ÊÇÈÚ ÔÇÑå	flowfunction	
+7	D			flow network	ÔÈßåí ÔÇÑå	flownetwork	
+7	A			Floyd-Warshall algorithm	ÇáæÑíÊã İáæíÏ-æÇÑÔÇá	floydWarshall	
+7	A			Ford-Bellman	İæÑÏ-Èöáãä	bellmanford	
+7	A			Ford-Fulkerson method	ÑæÔ İæÑÏ-İÇßÑÓä	fordFulkerson	
+14	D			forest	Ìäá	forest	
+13	D			formal language	ÒÈÇä ÕæÑí (ÑÓãí)	language	
+15	D			formal methods	ÑæÔåÇí ÑÓãí	formalmethod	
+15	D			formal verification	ÏÑÓÊííÇÈí ÑÓãí	formalverf	
+16	N			fractal	İÑßÊÇá	fractal	
+3	P			fractional knapsack problem	ãÓÆáåí ßæáåÔÊí ÊŞÓíãĞíÑ	fractionalKnapsack	
+13	D			fractional solution	ÌæÇÈ ßÓÑí	fractional	
+7	D			free edge	íÇá ÂÒÇÏ	freeedge	
+7	D			free vertex	ÑÃÓ ÂÒÇÏ	freevertex	
+2	D			full array	ÂÑÇíåí Ñ	fullArray	
+14	D			full binary tree	ÏÑÎÊ ÏæÏæíí Ñ	fullBinaryTree	
+7	D			fully dynamic graph problem	ãÓÆáåí ÑÇİö ßÇãáÇğ æíÇ	fullydynamic	
+2	D			fully persistent data structure	ÏÇÏåÓÇÎÊÇÑ ÊãÇããÇäÏÇÑ	fullyPersistData	
+13	T			fully polynomial approximation scheme	ÔãÇí ÊŞÑíÈ ßÇãáÇğ äÏÌãáåÇí	fullypolynml	
+2	D			function	ÊÇÈÚ	function	
+7	D			fuzzy edge	íÇá İÇÒí	fuzzyedge	
+7	D			fuzzy graph	ÑÇİ İÇÒí	fuzzygraph	
+7	D			fuzzy node	Ñåí İÇÒí	fuzzynode	
+2	D			fuzzy set	ÊÇÈÚ İÇÒí	fuzzyset	
+8	D			gamma function	ÊÇÈÚ ÇãÇ	gammafunctn	
+8	A	/		GCD	greatest common denominator	greatcomdiv	
+6	D			geometric optimization problem	ãÓÆáåí ÈåíäåÓÇÒí åäÏÓí	geometricopt	
+16	N			global optimum	Èåíäåí ÓÑÇÓÑí	globaloptimm	
+7	S			graph	ÑÇİ	graph	
+7	D			graph coloring	ÑäÂãíÒí ÑÇİ	graphcolorng	
+7	P			graph drawing	ÊÑÓíã ÑÇİ	graphdrawing	
+7	P			graph isomorphism	íßÑíÎÊí ÑÇİåÇ	graphisomrph	
+7	D			graph partition	ÇİÑÇÒ ÑÇİ	graphpartitn	
+8	A	&	GCD	greatest common denominator	ÈÒÑÊÑíä ãÎÑÌ ãÔÊÑß	greatcomdiv	
+8	A			greatest common divisor	ÈÒÑÊÑíä ãŞÓæãÚáíå ãÔÊÑß	greatcomdiv	
+3	T			greedy algorithm	ÇáæÑíÊã ÍÑíÕÇäå	greedyalgo	
+3	T			greedy heuristic	ãßÇÔİåí ÍÑíÕÇäå	greedyHeuristic	
+7	D	¿		grid drawing	ÊÑÓíã ÔÈßåÇí (Ñæí ÊæÑí)	griddrawing	
+10	A			Grover's algorithm	ÇáæÑíÊã ÑÇæöÑ	groversAlgo	
+13	P			halting problem	ãÓÆáåí ÊæŞİ	haltingProblem	
+7	D			Hamiltonian cycle	ÏæÑ åãíáÊäí	hamiltonianCycle	
+11	A			hash	ÏÑåãÓÇÒí	hash	
+11	A			hash function	ÊÇÈÚ ÏÑåãÓÇÒ	hash	
+11	S			hash table	ÌÏæá ÏÑåãÓÇÒí	hashtab	
+6	D			Hausdorff distance	İÇÕáåí åÇÓÏæÑİ	hausdorffdst	
+2	D			head	ÓÑ	head	
+12	A	¿		heap sort	ãÑÊÈÓÇÒ åÑãí	heapSort	
+12	A	**		heapsort	ãÑÊÈÓÇÒ åÑãí	heapSort	
+2	S			Herter-Heighway Dragon	ÇÏåÇí åÑÊÑ-åíæöí	dragoncurve	
+2	T			heuristic	ãßÇÔİåÇí	heuristic	
+7	S	&	HMM	hidden Markov model	ãÏá ãÇÑßæİ ãÎİí	hiddenMarkovModel	
+12	A			histogram sort	ãÑÊÈÓÇÒ äãæÏÇÑ ÓÊæäí	histogramSort	
+7	S	/		HMM	hidden Markov model	hiddenMarkovModel	
+7	D			homeomorphic	åãÓÇäÑíÎÊ	homomorphic	
+7	D			homomorphic	åãÑíÎÊ	homomorphic	
+6	D			horizontal visibility map	äŞÔåí ÏíÏ ÇİŞí	horizontal1	
+8	A			Horner's rule	ŞÇäæä åæÑäÑ	hornersrule	
+2	D	¿		hybrid algorithm	ÇáæÑíÊã ÂãíÎÊå	hybridAlgorithm	
+7	D			hyperedge	ÇÈÑíÇá	hyperedge	
+7	S			hypergraph	ÇÈÑÑÇİ	hypergraph	
+1	D	/		ID	instantaneous description	instantaneos	
+12	A			ideal merge	ÇÏÛÇã ÇíÏåÂá	idealmerge	
+2	D			implication	ÇÓÊáÒÇã	implication	
+2	D	¿		implies	äÊíÌå ãíÏåÏ	implies	
+7	D			in-branching	ÇäÔÚÇÈ æÑæÏí	branching	
+7	D			in-degree	ÏÑÌåí æÑæÏí	indegree	
+14	D			in-order traversal	íãÇíÔ ãíÇäÊÑÊíÈ	inordrtrvrsl	
+16	N			in-place merging	ÇÏÛÇã ÏÑÌÇ	inplacemerg	
+12	A			in-place sort	ãÑÊÈÓÇÒ ÏÑÌÇ	inplacesort	
+2	D			inclusion-exclusion principle	ÇÕá ÑÏø æ Ôãæá	inclusion	
+2	D			inclusive or	íÇí ãäØŞí	or	
+13	D			incompressible string	ÑÔÊåí İÔÑÏåäÔÏäí	incompressbl	
+7	D			independent set	ãÌãæÚåí ãÓÊŞá	independntst	
+13	D			information theoretic bound	ßÑÇä äÙÑíåí ÇØáÇÚÇÊí	information	
+14	D			inorder traversal	íãÇíÔ ãíÇäÊÑÊíÈ	inordrtrvrsl	
+12	A			insertion sort	ãÑÊÈÓÇÒ ÏÑÌí	insertsrt	
+1	D	&	ID	instantaneous description	ÊæÕíİ Âäí	instantaneos	
+7	D	¿		integer multi-commodity flow	ÔÇÑåí äÏßÇáÇíí ÕÍíÍ	integermulti	
+6	D			integer polyhedron	äÏæÌåí ÕÍíÍ	integer	
+13	D			interactive proof system	ÓíÓÊã ÇËÈÇÊ ãÍÇæÑåÇí	interactvprf	
+6	D			interior-based representation	äãÇíÔ ãÈÊäí ÈÑ ÏÑæä	interiorbasd	
+16	N			internal node	Ñåí ÏÇÎáí	internalnode	
+16	N			internal path	ãÓíÑ ÏÇÎáí	internalpth	
+12	D			internal sort	ãÑÊÈÓÇÒ ÏÇÎáí	internalsort	
+12	A			interpolation sort	ãÑÊÈÓÇÒ ÏÑæäíÇÈí	interpolsort	
+2	D			intersection	ÇÔÊÑÇß	intersection	
+16	N			interval tree	ÏÑÎÊ ÈÇÒå	intervaltree	
+13	D			intractable	ÑÇãäÔÏäí	intratable	
+12	A			intro sort	ãÑÊÈÓÇÒ ÎæÏÂÒãÇ	introspectiveSort	
+12	A	**		introsort	ãÑÊÈÓÇÒ ÎæÏÂÒãÇ	introspectiveSort	
+12	A			introspection sort	ãÑÊÈÓÇÒ ÎæÏÂÒãÇ	introspectiveSort	
+12	A	¿		introspective sort	ãÑÊÈÓÇÒ ÎæÏÂÒãÇ	introspectiveSort	
+2	D			irreflexive	äÇÈÇÒÊÇÈ	irreflexive	
+7	D			isomorphic	íßÑíÎÊ	isomorphic	
+2	T			iteration	ÊßÑÇÑ	iteration	
+12	A			j sort	ãÑÊÈÓÇÒ j	jsort	
+7	A			Johnson's algorithm	ÇáæÑíÊã ÌÇäÓæä	johnsonsAlgorithm	
+12	A	**		jsort	ãÑÊÈÓÇÒ j	jsort	
+7	D			k-coloring	k-ÑäÂãíÒí	kcoloring	
+2	D			k-dimensional	k-ÈÚÏí	kdimensional	
+12	D			k-way merge	ÇÏÛÇã k-ÑÇåí	kwaymerge	
+12	A			k-way merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí k-ÑÇåí	kwaymergsort	
+2	A			Karnaugh map	äŞÔåí ßÇÑäæ	karnaughmap	
+13	D			Karp reduction	ßÇåÔ ßÇÑ	karpreductin	
+2	D			key	ßáíÏ	key	
+7	D			Koenigsberg bridges	áåÇí ßæäíÓÈÑ	eulercycle	
+7	D			Koenigsberg bridges problem	ãÓÆáåí áåÇí ßæäíÓÈÑ	eulercycle	
+13	D			Kolmogorov complexity	ííÏí ßÇáãæÑæİ	kolmogorov	
+13	D			Kraft's inequality	äÇãÓÇæí ßÑÇİÊ	kraftsinqlty	
+1	D			Kripke structure	ÓÇÎÊÇÑö ßÑíß	kripkeStruct	
+7	A			Kruskal's algorithm	ÇáæÑíÊã ßÑæÓßÇá	kruskalsalgo	
+8	D			kth order Fibonacci numbers	ÇÚÏÇÏ İíÈæäÇí ãÑÊÈåí kÇõã	kthOrderFibonacci	
+7	P			kth shortest path	kÇõãíä ßæÊÇåÊÑíä ãÓíÑ	kthShortestPath	
+7	P	**		kth shortest path	kÇõãíä ßæÊÇåÊÑíä ãÓíÑ	kthShortestPath	
+2	A			KV diagram	äãæÏÇÑ ßöíæí	karnaughmap	
+13	D			l-reduction	ßÇåÔ l	lreduction	
+7	D			labeled graph	ÑÇİ ÈÑÓÈÏÇÑ	labeledgraph	
+13	D			language	ÒÈÇä	language	
+2	D	&	LIFO	last-in, first-out	ÂÎÑíä æÑæÏí-Çæáíä ÎÑæÌí	lastfirstout	
+2	D			lattice	ÔÈßå	lattice	
+7	D			layered digraph	ÑÇİ ÌåÊÏÇÑ áÇíåÔÏå	layeredgraph	
+7	D	¿		layered graph	ÑÇİ áÇíåÔÏå	layeredgraph	
+8	D	/		LCM	least common multiple	leastCommonMultiple	
+8	D	&	LCM	least common multiple	ßæßÊÑíä ãÖÑÈ ãÔÊÑß	leastCommonMultiple	
+2	S	/		LIFO	last-in, first-out	stack	
+13	D			linear	ÎØí	linear	
+12	A			linear insertion sort	ãÑÊÈÓÇÒ ÏÑÌí ÎØí	insertsrt	
+2	D			linear order	ÊÑÊíÈ ÎØí	totalorder	
+12	A			linear probing sort	ãÑÊÈÓÇÒ æÇÑÓí ÎØí	linearprbsrt	
+2	D			linear product	ÖÑÈ ÎØí	linearprodct	
+2	D			link	íæäÏ	link	
+2	S			linked list	áíÓÊ íæäÏí	linkedList	
+2	S			list	áíÓÊ	list	
+2	D			little-o notation	äãÇÏ Çõíö ßæß	littleOnottn	
+6	D			Lm distance	İÇÕáåí  Lm	lmdistance	
+13	D			logarithmic	áÇÑíÊãí	logarithmic	
+2	D			Lotka's law	ŞÇäæä áÇÊßÇ	lotkaslaw	
+13	D			lower bound	ßÑÇä Çííä	lowerbound	
+2	S			lower triangular matrix	ãÇÊÑíÓ ÇííäãËáËí	lowertriangm	
+6	D			Manhattan distance	İÇÕáåí ãäåÊäí	manhttndstnc	
+13	D			many-one reduction	ßÇåÔ äÏÈåíß	manyonerdctn	
+7	S			Markov chain	ÒäÌíÑåí ãÇÑßæİ	markovchain	
+7	D			matched edge	íÇá ÊØÇÈŞíÇİÊå	matchededge	
+7	D			matched vertex	ÑÃÓ ÊØÇÈŞíÇİÊå	matchedvertx	
+7	D			matching	ÊØÇÈŞ	matching	
+2	S			matrix	ãÇÊÑíÓ	matrix	
+2	D			max	ÈíÔíäå	max	
+7	P			maximal independent set	ãÌãæÚåí ãÓÊŞá ÈíÔíäå	maxmlndpndnt	
+7	D			maximally connected component	ãÄáİåí ãÇßÒíãÇáåãÈäÏ	maximallyConnectedComponent	
+7	P			maximum-flow problem	ãÓÆáåí ÔÇÑåí ÈíÔíäå	maximumflow	
+7	D			maximum bipartite matching	ÊØÇÈŞ ÏæÈÎÔí ÈíÔíäå	bipartmatch	
+13	D	/		MBB	minimum bounding box	minimumBoundingBox	
+1	D			Mealy machine	ãÇÔíä ãíáí	mealyMachine	
+8	D			mean	ãíÇäíä	mean	
+8	D			median	ãíÇäå	median	
+2	T			memoization	ÈåÎÇØÑÓÇÑí	memoize	
+12	D			merge	ÇÏÛÇã	merge	
+12	A			merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí	mergesort	
+13	D			meromorphic function	ÊÇÈÚ ãÑæãæÑİíß	meromorphic	
+2	D			min	ßãíäå	min	
+13	D			minimal antichain decomposition	ÊÌÒíåí ÇÏÒäÌíÑí ãíäíãÇá	minimalntchn	
+13	D	&	MBB	minimum bounding box	ßæßÊÑíä ãÓÊØíá ÏÑÈÑíÑäÏå	minimumBoundingBox	
+7	D			minimum code spanning tree	ÏÑÎÊ İÑÇíÑ ÈÇ ßãÊÑíä ßõÏ	minimumSpanningTree	
+7	D			minimum cost spanning tree	ÏÑÎÊ İÑÇíÑ ÈÇ ßãÊÑíä åÒíäå	minimumSpanningTree	
+7	D			minimum cut	ÈÑÔ ßãíäå	minimumcut	
+7	D	&	MST	minimum spanning tree	ÏÑÎÊ İÑÇíÑ ßãíäå	minimumSpanningTree	
+7	D			minimum vertex cut	ÈÑÔ ÑÃÓí ßãíäå	minvertexcut	
+8	D			mode	ãõÏ	mode	
+13	A			model checking	ÈÑÑÓí ãÏá	modelcheckng	
+13	D			model of computation	ãÏá ãÍÇÓÈå	modelofcompu	
+13	D			moderately exponential	äãÇíí ãáÇíã	moderatexpon	
+2	D			monotonically decreasing	äÒæáí íßäæÇÎÊ	monotoncdecr	
+2	D			monotonically increasing	ÕÚæÏí íßäæÇÎÊ	monotoncincr	
+1	D			Moore machine	ãÇÔíä ãæÑ	mooreMachine	
+1	D			move	ÍÑßÊ (ÇäÊŞÇá)	transition	
+7	D	/		MST	minimum spanning tree	minimumSpanningTree	
+7	D			multi-commodity flow	ÔÇÑåí äÏßÇáÇíí	multicommdty	
+2	D			multi-set	ãÌãæÚåí äÏÇäå	bag	
+7	S			multigraph	ÑÇİ äÏÇäå	multigraph	
+2	D			multiway decision	ÊÕãíã äÏÑÇåå	multiwayDecision	
+12	D			multiway merge	ÇÏÛÇã äÏÑÇåí	multiwaymrg	
+2	D			n-ary function	ÊÇÈÚ n-ÊÇíí	naryfunc	
+13	D			NC many-one reducibility	ßÇåÔĞíÑí äÏÈåíß ÇäÓí	nCmanyone	
+7	D			nearest neighbor search	ÌÓÊæÌæí äÒÏíßÊÑíä åãÓÇíå	nearest	
+2	D			negation	äŞíÖ (äİí)	negation	
+7	D			network flow	ÔÇÑåí ÔÈßå	flowfunction	
+7	P			network flow problem	ãÓÆáåí ÔÇÑåí ÔÈßå	maximumflow	
+1	D			next state	ÍÇáÊ ÈÚÏ	nextstate	
+1	D	/		NFA	nondeterministic finite automaton	nondetermFiniteStateMach	
+1	D	/		NFTA	nondeterministic finite tree automaton	nondetermFiniteTreeAutom	
+2	D			NIST	ãÄÓÓåí ãáí ÇÓÊÇäÏÇÑÏ æ İäÂæÑí ÂãÑíßÇ	nist	
+2	D			node	Ñå	node	
+12	A			nonbalanced merge	ÇÏÛÇã äÇãÊæÇÒä	nonbalncmerg	
+12	A			nonbalanced merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí äÇãÊæÇÒä	nonbalncmsrt	
+13	D			nondeterministic	ÛíÑŞØÚí	nondeterministic	
+2	T			nondeterministic algorithm	ÇáæÑíÊã ÛíÑŞØÚí	nondetrmalgo	
+1	D	&	NFA	nondeterministic finite automaton	ÇÊæãÇÊæä ãÊäÇåí ÛíÑŞØÚí	nondetermFiniteStateMach	
+1	D			nondeterministic finite state machine	ãÇÔíä ÍÇáÊ ãÊäÇåí ÛíÑŞØÚí	nondetermFiniteStateMach	
+1	D	&	NFTA	nondeterministic finite tree automaton	ÇÊæãÇÊæä ÏÑÎÊí ãÊäÇåí ÛíÑŞØÚí	nondetermFiniteTreeAutom	
+13	D			nondeterministic polynomial time	ÒãÇä äÏÌãáåÇí ÛíÑŞØÚí	np	
+1	D			nondeterministic tree automaton	ÇÊæãÇÊæä ÏÑÎÊí ÛíÑŞØÚí	nondetermTreeAutom	
+1	D			nondeterministic Turing machine	ãÇÔíä ÊæÑíä ÛíÑŞØÚí	nondetrmtur	
+12	A			noniterative merge	ÇÏÛÇã ÛíÑÊßÑÇÑí	nonitermerge	
+2	D	*		not	äíä äíÓÊ ßå	not	
+13	D			NP-complete language	ÒÈÇä Çäí ÊãÇã	nPcompltlngg	
+2	D			nullary function	ÊÇÈÚ ÕİÑÊÇíí	zeroaryfunc	
+2	D			O	äãÇÏ Çõíö ÈÒÑ	bigOnotation	
+2	D			O notation	äãÇÏ Çõíö ÈÒÑ	bigOnotation	
+2	D			o notation	äãÇÏ Çõíö ßæß	littleOnottn	
+13	D			objective function	ÊÇÈÚ åÏİ	objective	
+13	D			off-line algorithm	ÇáæÑíÊã ÈÑæäÎØ	offline	
+2	D			omega	ÇõãÇ	omega	
+2	D			omicron	ÇõãíßÑæä	omicron	
+13	D			on-line algorithm	ÇáæÑíÊã ÈÑÎØ	online	
+2	D			one-dimensional	íß-ÈõÚÏí	onedimensnal	
+2	D			optimal	Èåíäå	optimal	
+13	D			optimal cost	åÒíäåí Èåíäå	bestcasecost	
+12	A			optimal merge	ÇÏÛÇã Èåíäå	optimalMerge	
+6	P			optimal polygon triangulation problem	ãÓÆáåí ãËáËÈäÏí Èåíäåí äÏÖáÚí	optmlplygntr	
+12	A			optimal polyphase merge	ÇÏÛÇã äÏãÑÍáåÇí Èåíäå	optimpolymrg	
+12	A			optimal polyphase merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí äÏãÑÍáåÇí Èåíäå	optpolymrg	
+13	D			optimal solution	ÌæÇÈ Èåíäå	optimalsoltn	
+6	P			optimal triangulation problem	ãÓÆáåí ãËáËÈäÏí Èåíäå	optimTriangulation	
+13	D			optimal value	ãŞÏÇÑ Èåíäå	optimalvalue	
+13	D			optimization problem	ãÓÆáåí ÈåíäåÓÇÒí	optimization	
+2	D			or	íÇ	or	
+1	D	¿		oracle set	ãÌãæÚåí íÔæ	oracleset	
+1	D	¿		oracle tape	äæÇÑ íÔæ	oracletape	
+1	D	¿		oracle Turing machine	ãÇÔíä ÊæÑíä íÔæ	oracleTur	
+2	D			order	ÊÑÊíÈ	order	
+13	D			ordered binary decision diagram	äãæÏÇÑ ÊÕãíã ÏæÏæíí ãÑÊÈ	obdd	
+2	S			ordered linked list	áíÓÊ íæäÏí ãÑÊÈ	orderedLinkedList	
+7	D			oriented acyclic graph	ÑÇİ ÈíÏæÑ ÌåÊÏÇÑ	directAcycGraph	
+7	S			oriented graph	ÑÇİ ÌåÊÏÇÑ	directgraph	
+7	D			orthogonal drawing	ÊÑÓíã ãÊÚÇãÏ	orthogonldrw	
+6	D			orthogonally convex rectilinear polygon	äÏÖáÚí ÇİŞí-ÚãæÏí ãÊÚÇãÏÇğ ãÍÏÈ	orthogoncnvx	
+12	A			oscillating merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí äæÓÇäí	oscillatmerg	
+7	D			out-branching	ÇäÔÚÇÈ ÎÑæÌí	outbranching	
+7	D			out-degree	ÏÑÌåí ÎÑæÌí	outdegree	
+12	A			p-way merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí p-ÑÇåí	kwaymergsort	
+13	D	¿		padding argument	ÇÓÊÏáÇá áÇíåĞÇÑ	paddingrgmnt	
+6	T			parametric searching	ÌÓÊæÌæí ÇÑÇãÊÑí	parametrsrch	
+13	D			partial function	ÊÇÈÚ ÌÒíí	partialfunct	
+2	D			partial order	ÊÑÊíÈ ÌÒíí	partialorder	
+13	D			partial recursive function	ÊÇÈÚ ÈÇÒÔÊí ÌÒíí	partialrcrsv	
+13	D			partially decidable problem	ãÓÆáåí ÌÒÆÇğ ÊÕãíãĞíÑ	partiallydcd	
+7	D			partially dynamic graph problem	ãÓÆáåí ÑÇİ ÌÒíí æíÇ	partiallyDynamicGraph	
+2	D			partially ordered set	ãÌãæÚåí ÌÒííãÑÊÈ	poset	
+2	D			partially persistent data structure	ÏÇÏåÓÇÎÊÇÑ ÌÒííãÇäÏÇÑ	partiallyPersistData	
+7	D			path	ãÓíÑ	path	
+1	D	/		PDA	pushdown automaton	pushdownautm	
+7	D			perfect matching	ÊØÇÈŞ ßÇãá	perfectmatch	
+13	D			performance guarantee	ÖãÇäÊ ßÇÑÇíí	performance	
+13	D			performance ratio	äÓÈÊ ßÇÑÇíí	relativePerformGuar	
+2	D			persistent data structure	ÏÇÏåÓÇÎÊÇÑ ãÇäÏÇÑ	persistentdt	
+7	D			planar graph	ÑÇİ ãÓØÍ	planargraph	
+7	D			planar straight-line graph	ÑÇİ ãÓØÍ ÈÇ ÎØæØ ãÓÊŞíã	planarstrght	
+7	D			planarity	ãÓØÍ ÈæÏä	planargraph	
+7	D			planarization	ãÓØÍÓÇÒí	planarization	
+13	D			pointer machine	ãÇÔíä ÇÔÇÑåÑ	pointermachn	
+13	D			poissonization	æÇÓæäíßÑÏä	poissonizatn	
+6	D			polyhedron	äÏæÌåí	polyhedron	
+13	D			polylogarithmic	äÏáÇÑíÊãí	polylogarith	
+13	D			polynomial	äÏÌãáåÇí	polynomial	
+13	D			polynomial-time algorithm	ÇáæÑíÊã ÒãÇääÏÌãáåÇí	polynmltmalg	
+13	T			polynomial-time approximation scheme	ÔãÇí ÊŞÑíÈ ÒãÇääÏÌãáåÇí	polynomaprox	
+13	D			polynomial-time Church-Turing thesis	ÊÒ Ñ-ÊæÑíä ÒãÇääÏÌãáåÇí	polynomChurchTur	
+13	D			polynomial-time reduction	ßÇåÔ ÒãÇääÏÌãáåÇí	polynomtredc	
+13	T			polynomial approximation scheme	ÔãÇí ÊŞÑíÈ äÏÌãáåÇí	polynomaprox	
+13	D			polynomial hierarchy	ÓáÓáåãÑÇÊÈ äÏÌãáåÇí	polynomhier	
+13	D			polynomial time	ÒãÇä äÏÌãáåÇí	polynomialtm	
+12	A			polyphase merge	ÇÏÛÇã äÏãÑÍáåÇí	polyphmerge	
+12	A			polyphase merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí äÏãÑÍáåÇí	polyphmrgsrt	
+2	D			poset	ãÌãæÚåí ÌÒííãÑÊÈ	poset	
+13	P			Post's correspondence problem	ãÓÆáåí ÊäÇÙÑ ÓÊ	postsCorrespondProb	
+12	A			postman's sort	ãÑÊÈÓÇÒ ÓÊí	postmansort	
+13	D			potential function	ÊÇÈÚ ÊÇäÓíá	potentialfnc	
+7	A			Prim's algorithm	ÇáæÑíÊã Ñíã	primsalgrthm	
+13	D			primitive recursive	ÈÇÒÔÊí ÇÕáí	primitivrecr	
+2	S			priority queue	Õİ ÇæáæíÊ	priorityque	
+13	P	¿		prisoner's dilemma	ãÚãÇí ÇÓíÑÇä	prisonersDilemma	
+6	T	/		PRNG	pseudo-random number generator	pseudorandomNumberGen	
+2	D			probabilistic algorithm	ÇáæÑíÊã ÇÍÊãÇáí	probablAlgo	
+1	D			probabilistic Turing machine	ãÇÔíä ÊæÑíä ÇÍÊãÇáí	probablturng	
+13	D			probabilistically checkable proof	ÇËÈÇÊ ÈÑÑÓíĞíÑ ÇÍÊãÇáí	probabilisticallyCheckableProof	
+2	D			procedure	Ñæíå	procedure	
+13	D			process algebra	ÌÈÑ ÑÏÇÒååÇ	processalgbr	
+2	D			proper	ÓÑå	proper	
+7	D			proper coloring	ÑäÂãíÒí ãÌÇÒ	propercolor	
+2	D			proper subset	ÒíÑãÌãæÚåí ÓÑå	propersubset	
+6	T			prune and search	åÑÓ æ ÌÓÊæÌæ	pruneNsearch	
+16	N	&	PRNG	pseudo-random number generator	ãæáøÏ ÇÚÏÇÏ ÔÈåÊÕÇÏİí	pseudorandomNumberGen	
+13	T			pseudorandom number	ÚÏÏ ÔÈåÊÕÇÏİí	pseudorandomNumberGen	
+8	D			pth order Fibonacci numbers	ÇÚÏÇÏ İíÈæäÇí ãÑÊÈåí  pÇõã	kthOrderFibonacci	
+13	D			purely functional language	ÒÈÇä ßÇãáÇğ ÊÇÈÚí	purelyfnctnl	
+1	D	&	PDA	pushdown automaton	ÇÊæãÇÊæä ÔÊåÇí	pushdownautm	
+13	D			pushdown transducer	ãÈÏá ÔÊåÇí	pushdownTransducer	
+12	A			q sort	ãÑÊÈÓÇÒ q	qsort	
+12	A			qm sort	ãÑÊÈÓÇÒ qm	qmsort	
+12	A	**		qmsort	ãÑÊÈÓÇÒ qm	qmsort	
+12	A	**		qsort	ãÑÊÈÓÇÒ q	qsort	
+6	D			quadtree complexity theorem	ŞÖíåí ííÏí ÏÑÎÊ åÇÑÊÇíí	quadtreecplx	
+10	D			quantum computation	ãÍÇÓÈåí ßæÇäÊãí	quantumComputation	
+2	S			queue	Õİ	queue	
+12	A			quick sort	ãÑÊÈÓÇÒ ÓÑíÚ	quicksort	
+12	A			quicksort	ãÑÊÈÓÇÒ ÓÑíÚ	quicksort	
+13	D			r.e. language	ÒÈÇä ÈÇÒÔÊíÔãÇÑÔĞíÑ	recursivelyEnumerableLang	
+12	A			radix sort	ãÑÊÈÓÇÒ ãÈäÇíí	radixsort	
+2	S			ragged matrix	ãÇÊÑíÓ äÇåãæÇÑ	raggedmatrix	
+13	D			random access machine	ãÇÔíä ÈÇ ÏÓÊÑÓí ÊÕÇÏİí	randomaccess	
+8	A			random number	ÇÚÏÇÏ ÊÕÇÏİí	randomnumgen	
+8	A	&	RNG	random number generator	ãæáÏ ÇÚÏÇÏ ÊÕÇÏİí	randomnumgen	
+2	T			randomization	ÊÕÇÏİíÓÇÒí	randomizatn	
+2	D			randomized algorithm	ÇáæÑíÊã ÊÕÇÏİí	randomizedAlgo	
+13	D			randomized complexity	ííÏí ÊÕÇÏİí	randomizedComplexity	
+13	A			randomized rounding	ÑÏ ßÑÏä ÊÕÇÏİí	randomizdrnd	
+2	D			range	ÈõÑÏ	range	
+12	A			range sort	ãÑÊÈÓÇÒ ÈÇÒåÇí	rangesort	
+7	D			reachable	ŞÇÈá ÏÓÊíÇÈí	reachable	
+1	D			recognizer	ÊÔÎíÕÏåäÏå (ÔäÇÓäÏå)	recognizer	
+2	S			rectangular matrix	ãÇÊÑíÓ ãÓÊØíáÔßá	rectangmatrx	
+7	D			rectilinear	ÇİŞí-ÚãæÏí	rectilinear	
+6	D			rectilinear distance	İÇÕáåí ÇİŞí-ÚãæÏí	manhttndstnc	
+7	D			rectilinear Steiner tree	ÏÑÎÊ ÇÔÊÇíäÑ ÇİŞí-ÚãæÏí	rectilstntre	
+13	D			recurrence equations	ãÚÇÏáÇÊ ÈÇÒÔÊí	recurrence	
+13	D			recurrence relation	ÑÇÈØåí ÈÇÒÔÊí	recurrence	
+13	D			recurrences	ÈÇÒÔÊíåÇ	recurrence	
+2	T			recursion	ÈÇÒÔÊ	recursion	
+2	D			recursion termination	ÎÇÊãåí ÈÇÒÔÊ	recursiontrm	
+13	D			recursion tree	ÏÑÎÊ ÈÇÒÔÊ	recursionTree	
+2	S			recursive	ÈÇÒÔÊí	recursive	
+2	D			recursive data structure	ÏÇÏåÓÇÎÊÇÑ ÈÇÒÔÊí	recursivstrc	
+13	D			recursive language	ÒÈÇä ÈÇÒÔÊí	recursiveLanguage	
+13	D			recursively enumerable language	ÒÈÇä ÈÇÒÔÊíÔãÇÑÔĞíÑ	recursivelyEnumerableLang	
+2	D			reduced basis	Çíåí ÓÇÏåÔÏå	reducedbasis	
+7	D			reduced digraph	ÑÇİ ÌåÊÏÇÑ ÓÇÏåÔÏå	reducdigraph	
+13	D			reduction	ßÇåÔ¡ ÓÇÏåÓÇÒí	reduction	
+2	D			reflexive	ÈÇÒÊÇÈ	reflexive	
+6	D			regular decomposition	ÊÌÒíåí ãäÙã	regular	
+2	D			relation	ÑÇÈØå	relation	
+13	S			relational structure	ÓÇÎÊÇÑ ÑÇÈØåÇí	relational	
+13	D			relative performance guarantee	ÖãÇäÊ ßÇÑÇíí äÓÈí	relativePerformGuar	
+13	D			relaxation	ÊÑãíã	relaxation	
+13	D			rescalable	ÈÇÒãŞíÇÓĞíÑ	rescalable	
+12	D			restricted universe sort	ãÑÊÈÓÇÒ ÌåÇä ãÍÏæÏ	restricted	
+13	T			rho-approximation algorithm	ÇáæÑíÊã rho-ÊŞÑíÈí	rhoapproxmtn	
+13	D			Rice's method	ÑæÔ ÑÇíÓ	ricesmethod	
+8	A	/		RNG	random number generator	randomnumgen	
+7	D	¿		rough graph	ÑÇİ ÊŞÑíÈí	roughgraph	
+13	D			run time	ÒãÇä ÇÌÑÇ	runtime	
+7	D			s-t cut	ÈÑÔ s-t	stcut	
+7	D			saturated edge	íÇá ÇÔÈÇÚÔÏå	saturatedEdge	
+12	A			selection sort	ãÑÊÈÓÇÒ ÇäÊÎÇÈí	selectionsrt	
+7	D			self-loop	ØæŞå	selfloop	
+13	D			separation theorem	ŞÖíåí ÌÏÇÓÇÒí	separatnthrm	
+2	D			set	ãÌãæÚå	set	
+2	D			set complement	ãßãá ãÌãæÚå	complement	
+2	D			set difference	ÊİÇÖá ãÌãæÚå	difference	
+2	D			set intersection	ÇÔÊÑÇß ãÌãæÚå	intersection	
+2	D			set union	ÇÌÊãÇÚ ãÌãæÚå	union	
+13	D			shared memory	ÍÇİÙåí ÇÔÊÑÇßí	sharedmemory	
+12	A			shell sort	ãÑÊÈÓÇÒ ÕÏİí	shellsort	
+12	A			Shell sort	ãÑÊÈÓÇÒ ÕÏİí	shellsort	
+10	A			Shor's algorithm	ÇáæÑíÊã ÔæÑ	shorsAlgo	
+7	P			shortest path	ßæÊÇåÊÑíä ãÓíÑ	shortestpath	
+7	D	&	SST	shortest spanning tree	ßæÊÇåÊÑíä ÏÑÎÊ İÑÇíÑ	minimumSpanningTree	
+6	D			Sierpinski triangle	ãËáË ÓÑíäÓßí	sierpinskiTriangle	
+2	D			signature	ÇãÖÇÁ (äÔÇä)	signature	
+12	A			simple merge	ÇÏÛÇã ÓÇÏå	simplemerge	
+7	D			simple path	ãÓíÑ ÓÇÏå	simplepath	
+13	D			simulation theorem	ŞÖíåí ÔÈíåÓÇÒí	simulatnthrm	
+7	P			single-destination shortest-path problem	ãÓÆáåí ßæÊÇåÊÑíä ãÓíÑ Èå íß ãŞÕÏ	singleDestShortestPath	
+7	P			single-pair shortest-path problem	ãÓÆáåí ßæÊÇåÊÑíä ãÓíÑ Èíä íß ÒæÌ ÑÃÓ	shortestpath	
+7	P			single-source shortest-path problem	ãÓÆáåí ßæÊÇåÊÑíä ãÓíÑ ÇÒ íß ãÈÏÃ	singleSourceShortestPath	
+2	S			singly linked list	áíÓÊ íæäÏí íßØÑİå	linkedList	
+13	D			singularity analysis	ÊÍáíá äŞØåí ãäİÑÏ	singularity	
+7	D			sink	Çåß	sink	
+12	A			sink sort	ãÑÊÈÓÇÒ İÑæÈÑäÏå	bubblesort	
+12	A			sinking sort	ãÑÊÈÓÇÒ İÑæÈÑäÏå	bubblesort	
+7	D			skew symmetry	ÊŞÇÑä 	skewsymmetry	
+6	P			slope selection	ÇäÊÎÇÈ ÔíÈ	slopeselectn	
+13	D			solvable	ÍáĞíÑ	solvable	
+12	A	**		sort	ãÑÊÈÓÇÒí	sort	
+12	A	**		sort in-place	ãÑÊÈÓÇÒí ÏÑÌÇ	inplacesort	
+12	A	**		sort in place	ãÑÊÈÓÇÒí ÏÑÌÇ	inplacesort	
+12	A	**		sort merge	ãÑÊÈÓÇÒ ÇÏÛÇãí	mergesort	
+12	A			sorting algorithm	ÇáæÑíÊã ãÑÊÈÓÇÒí	sort	
+7	D			source	ãäÈÚ¡ ãÈÏÃ	source	
+13	D	¿		space-constructible function	ÊÇÈÚ İÖÇÓÇÎÊäí	space	
+7	D			sparse graph	ÑÇİ ÎáæÊ	sparsegraph	
+2	S			sparse matrix	ãÇÊÑíÓ ÎáæÊ	sparsematrix	
+7	T	¿		sparsification	ÎáæÊ ÓÇÒí	sparsificatn	
+2	S			square matrix	ãÇÊÑíÓ ãÑÈÚí	squarematrix	
+8	A			square root	ÑíÔåí Ïæã	squareRoot	
+7	D	/		SST	shortest spanning tree	minimumSpanningTree	
+2	D			stable	ÇíÏÇÑ	stable	
+2	S			stack	ÔÊå	stack	
+2	D			stack tree	ÏÑÎÊ ÔÊåÇí	stacktree	
+6	D			star-shaped polygon	äÏÖáÚí ÓÊÇÑåÇíÔßá	starshaped	
+1	D			start state	ÍÇáÊ ÔÑæÚ	startstate	
+1	D			state	ÍÇáÊ	state	
+1	D			state machine	ãÇÔíä ÍÇáÊ	statemachine	
+1	D			state transition	ĞÑ ÍÇáÊ	transition	
+7	D			Steiner minimum tree	ÏÑÎÊ ßãíäåí ÇÔÊÇíäÑ	steinermintr	
+7	D			Steiner point	äŞØåí ÇÔÊÇíäÑ	steinerpoint	
+7	D			Steiner ratio	äÓÈÊ ÇÔÊÇíäÑ	steinerratio	
+7	D			Steiner tree	ÏÑÎÊ ÇÔÊÇíäÑ	steinertree	
+7	D			Steiner vertex	ÑÃÓ ÇÔÊÇíäÑ	steinervertx	
+8	D			Stirling's approximation	ÊŞÑíÈ ÇÓÊÑáíä	stirlingappx	
+8	D			Stirling's formula	İÑãæá ÇÓÊÑáíä	stirlingform	
+12	A			stooge sort	ãÑÊÈÓÇÒ ÓÇÏåáæÍÇäå	stoogesort	
+7	D			straight-line drawing	ÊÑÓíã ãÓÊŞíã ÇáÎØ	straightline	
+2	D			strictly decreasing	ÇßíÏÇğ äÒæáí	strictlydecr	
+2	D			strictly increasing	ÇßíÏÇğ ÕÚæÏí	strictlyincr	
+2	S			strictly lower triangular matrix	ãÇÊÑíÓ ÇßíÏÇğ Çííä ãËáËí	strictlyLowerTriangMat	
+2	S			strictly upper triangular matrix	ãÇÊÑíÓ ÇßíÏÇğ ÈÇáÇ ãËáËí	strictlyUpperTriangMat	
+2	S			string	ÑÔÊå	string	
+7	D			strongly connected graph	ÑÇİ ŞæíÇğ åãÈäÏ	strongcongrf	
+13	D			subadditive ergodic theorem	ŞÖíåí ÇÑæÏíß ÒíÑÌãÚí	subadditive	
+7	D			subgraph	ÒíÑÑÇİ	subgraph	
+7	P			subgraph isomorphism	íßÑíÎÊí ÒíÑÑÇİåÇ	subgraphiso	
+2	D			subset	ÒíÑãÌãæÚå	subset	
+1	D			suffix automaton	ÇÊæãÇÊæä ÓæäÏí	suffixautmtn	
+2	D			superset	ÒöÈóÑ ãÌãæÚå	superset	
+7	D			supersink	ÇÈóÑÇåß	supersink	
+7	D			supersource	ÇÈóÑãäÈÚ	supersource	
+2	D			symmetric	ãÊŞÇÑä	symmetric	
+2	D			symmetric set difference	ÊİÇÖá ãÊŞÇÑä ãÌãæÚå	symmetricSetDiff	
+2	S			symmetrically linked list	áíÓÊ íæäÏí ãÊŞÇÑä	doublyLinkedList	
+2	D			tail	Ïõã	tail	
+2	T			tail recursion	ÂÎÑíä ÈÇÒÔÊ	tailrecursn	
+13	D			temporal logic	ãäØŞ ÒãÇäí	temporllogic	
+7	D			terminal	ÇíÇäå	terminal	
+2	D			text	ãÊä	text	
+2	D			theta	ÊöÊÇ	theta	
+2	D			three-dimensional	Óå ÈõÚÏí	threedimnsnl	
+12	A			three-way merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí ÓåÑÇåí	threewaymsrt	
+13	D			time/space complexity	ííÏí ÒãÇä/ÍÇİÙå	timespace	
+12	A			top-down radix sort	ãÑÊÈÓÇÒ ãÈäÇíí ÈÇáÇ Èå Çííä	topdwnrdxsrt	
+1	D			top-down tree automaton	ÇÊæãÇÊæä ÏÑÎÊíö ÈÇáÇ Èå Çííä	topdwntrtmtn	
+12	D			top sort	ãÑÊÈÓÇÒ Êææáæíßí	topologcsort	
+2	D			topological order	ÊÑÊíÈ Êææáæíßí	topologicalOrder	
+12	D			topological sort	ãÑÊÈÓÇÒ Êææáæíßí	topologcsort	
+13	D			total function	ÊÇÈÚ ßÇãá	totalfunc	
+2	D			total order	ÊÑÊíÈ ßÇãá	totalorder	
+13	D			totally decidable problem	ãÓÆáåí ßÇãáÇğ ÊÕãíãĞíÑ	decidable	
+13	D			totally undecidable problem	ãÓÆáåí ßÇãáÇğ ÊÕãíãäÇĞíÑ	totallyUndecidableProb	
+7	D			tour	ÊæÑ	hamiltonianCycle	
+13	D			tractable	ãåÇÑÔÏäí	tractable	
+1	D			transducer	ãÈÏá	transducer	
+1	D			transition	ĞÑ (ÊÛííÑ æÖÚíÊ)	transition	
+1	D			transition function	ÊÇÈÚ ĞÑ	transitionfn	
+2	D			transitive	ÊÑÇíÇ (ÊÑÇĞÑí)	transitive	
+7	D			transitive reduction	ÓÇÏåÓÇÒíö ÊÑÇíÇ	transtvreduc	
+7	P			traveling salesman	İÑæÔäÏåí ÏæÑåÑÏ	travelingSalesman	
+7	P	&	TSP	traveling salesman problem	ãÓÆáåí İÑæÔäÏåí ÏæÑåÑÏ	travelingSalesman	
+7	P			travelling salesman	İÑæÔäÏåí ÏæÑåÑÏ	travelingSalesman	
+1	D			tree automaton	ÇÊæãÇÊæä ÏÑÎÊí	treeautomata	
+12	A			tree sort	ãÑÊÈÓÇÒ ÏÑÎÊí	treesort	
+7	D			triangle inequality	äÇãÓÇæí ãËáËí	trianglnqlty	
+7	D			triconnected graph	ÑÇİ ÓååãÈäÏ	triconnectedGraph	
+2	D			trinary function	ÊÇÈÚ ÓåÊÇíí	trinaryfunc	
+7	P	/		TSP	traveling salesman problem	travelingSalesman	
+1	D			Turing machine	ãÇÔíä ÊæÑíä	turingMachine	
+13	D			Turing reduction	ßÇåÔ ÊæÑíä	turingredctn	
+13	D			Turing transducer	ãÈÏá ÊæÑíä	turingtrnsdr	
+2	D			two-dimensional	Ïæ ÈõÚÏí	twodimensnal	
+2	S			two-way linked list	áíÓÊ íæäÏíö ÏæØÑİå	doublyLinkedList	
+2	S			two-way list	áíÓÊ ÏæØÑİå	doublyLinkedList	
+12	A			two-way merge sort	ãÑÊÈÓÇÒ ÇÏÛÇãí ÏæÑÇåå	twowaymrgsrt	
+2	D			unary function	ÊÇÈÚ íßÊÇíí	unaryfunc	
+13	D			uncomputable function	ÊÇÈÚ ãÍÇÓÈåäÇĞíÑ	uncomputableFunction	
+13	D			uncomputable problem	ãÓÆáåí ãÍÇÓÈåäÇĞíÑ	uncomputableProblem	
+2	D			undecidable	ÊÕãíãäÇĞíÑ	undecidable	
+13	D			undecidable language	ÒÈÇä ÊÕãíãäÇĞíÑ	undecidableLanguage	
+13	D			undecidable problem	ãÓÆáåí ÊÕãíãäÇĞíÑ	undecidableProblem	
+7	S			undirected graph	ÑÇİ ÛíÑÌåÊÏÇÑ	undirectgraf	
+13	D			uniform circuit complexity	ííÏí ãÏÇÑ íßäæÇÎÊ	uniformCircuitComplexity	
+13	D			uniform circuit family	ÎÇäæÇÏåí ãÏÇÑåÇí íßäæÇÎÊ	uniformCircuitFamily	
+2	S			uniform matrix	ãÇÊÑíÓ íßäæÇÎÊ	uniformmatrx	
+2	D			union	ÇÌÊãÇÚ	union	
+1	A			union of automata	ÇÌÊãÇÚ ÇÊæãÇÊÇ	unionautoma	
+1	D			universal state	ÍÇáÊ ÌÇãÚ	universalstt	
+1	D			universal Turing machine	ãÇÔíä ÊæÑíä ÌÇãÚ	universalTur	
+2	D			universe	ÌåÇä (ãÌãæÚåí ãÑÌÚ)	universe	
+13	D			unsolvable	ÍáäÔÏäí	unsolvable	
+13	D			unsolvable problem	ãÓÆáåí ÍáäÔÏäí	unsolvablepr	
+12	D			unsorted list	áíÓÊ äÇãÑÊÈ	unsortedlst	
+2	S			upper triangular matrix	ãÇÊÑíÓ ÈÇáÇãËáËí	uppertriangm	
+7	P	&	VRP	vehicle routing problem	ãÓÆáåí ãÓíÑíÇÈí æÓíáå	vehicleRouting	
+2	A			Veitch diagram	äãæÏÇÑ æíÊ	karnaughmap	
+13	D			Venn diagram	äãæÏÇÑ æä	venndiagram	
+7	D			vertex	ÑÃÓ	vertex	
+7	D			vertex coloring	ÑäÂãíÒí ÑÃÓí	vertexcolor	
+7	D			vertex connectivity	åãÈäÏí ÑÃÓí	vertexConnectivity	
+7	P			vertex cover	æÔÔ ÑÃÓí	vertexcover	
+7	D			vertex set	ãÌãæÚåí ÑÃÓåÇ	vertexset	
+7	D	**		vertexes	ÑÃÓ	vertex	
+6	D			vertical visibility map	äŞÔåí ÏíÏ ÚãæÏí	vertical	
+7	D			vertices	ÑÃÓåÇ	vertices	
+6	D			visibility map	äŞÔåí ÏíÏ	visibilityMap	
+6	D			visible	ŞÇÈá ÏíÏ	visible	
+7	A			Viterbi algorithm	ÇáæÑíÊã æíÊÑÈí	viterbiAlgorithm	
+7	P	/		VRP	vehicle routing problem	vehicleRouting	
+7	D			walk	ÔÊ	walk	
+12	A			weak-heap sort	ãÑÊÈÓÇÒ åÑãí ÖÚíİ	weakheapsort	
+7	D			weighted graph	ÑÇİ æÒäÏÇÑ	weightgraph	
+7	D			weighted, directed graph	ÑÇİ ÌåÊÏÇÑ æÒäÏÇÑ	weightdigraf	
+13	D			worst-case	ÈÏÊÑíä ÍÇáÊ	worstcase	
+13	D			worst-case cost	åÒíäåí ÈÏÊÑíä ÍÇáÊ	worstcasecst	
+2	D			xor	íÇí ÇäÍÕÇÑí	xor	
+1				 Automata and State Machines			
+2				 Basic			
+3				 Combinatorics			
+6				 Computational Geometry			
+4				 Cryptography and Compression			
+16				 Entries with No Area			
+5				 External Memory Algorithms and Data Structures			
+7				 Graphs			
+8				 Numeric Computation			
+9				 Parallel			
+10				 Quantum Computation			
+11				 Searching			
+12				 Sorting			
+13				 Theory			
+14				 Trees			
+15				 Verification and Formal Methods			
+14	S			(a,b)-tree		abtree	
+3	P			0-1 knapsack		zero1knap	
+2	D			0-ary function	ÊÇÈÚ ÕİÑÊÇíí	zeroaryfunc	
+16	N			1-2 brother tree		onetwobrthr	
+16	N			1-2 neighbor tree		onetwonghbr	
+16	N			1-2 son tree		onetwosontr	
+16	N			1-2 tree		onetwotree	
+14	S			2-3-4 tree		two34tree	
+16	N			2-3 brother tree		twothree	
+14	S			2-3 tree		two3tree	
+4	A			adaptive Huffman encoding		adaptiveHuffman	
+4	A			algorithm BSTW		algorithmBSTW	
+4	A			algorithm FGK		algorithmFGK	
+4	A			algorithm V		algorithmV	
+16	N			alignment problem		alignment	
+11	A			Alpha Skip Search algorithm		alphaskipsr	
+16	N			alternating selection		alternat	
+11	A			Apostolico-Crochemore		apostolicocr	
+11	A			Apostolico-Giancarlo algorithm		apostolicogi	
+11	A			approximate string matching		stringMatchwError	
+11	P			array search		arraysearch	
+11	S			assoc list		dictionary	
+16	N			average minimum accesses		averagemnmm	
+6	A			B-spline		bspline	
+14	S			B-tree		btree	
+14	S			B*-tree		bstartree	
+14	S			balanced multiway tree		btree	
+14	D			balanced tree		balancedtree	
+16	N			balancing by internal path reduction		balancbyredu	
+11	S			BANG file		bangfile	
+14	D			BB  tree		bbalphatree	
+11	S			BD-tree		bdtree	
+14	S			BDD		bdd	
+3	P			bin packing		binpacking	
+14	S			binary decision diagram		bdd	
+14	S			binary heap		binaryheap	
+14	S			binary search tree		binarySearchTree	
+14	D			binary tree		binarytree	
+14	S			binary tree representation of trees		binaryTreeRepofTree	
+14	S			binomial heap		binomialheap	
+14	S			binomial queue		binomialheap	
+14	S			binomial tree		binomialtree	
+6	S			bintree		bintree	
+16	N			bipartition search		bipartition	
+16	N			bisection search		bisection	
+9	D			bisimulation equivalence		bisimulequiv	
+16	N			bitonic tour		bitonictour	
+14	S			Bk tree		bktree	
+11	S			block addressing index		blockAddressingIndex	
+11	A			block search		jumpsearch	
+11	A			block searching		jumpsearch	
+11	A			Bloom filter		bloomfilt	
+11	D			border		border	
+16	N			bounded balance tree		boundedblnc	
+16	N			bounded disorder		bounded	
+11	A			Boyer-Moore		boyermoore	
+11	A			Boyer-Moore-Horspool		boyerMooreHorspool	
+16	N			BPP		bpp	
+16	N			Bradford's law		bradfordslw	
+16	N			Brent's algorithm		brent	
+16	N			Brent's hashing		brentshash	
+16	N			Brent-Salamin		brentsalamn	
+11	A			brute force string search		bruteForceStringSearch	
+11	A			brute force string search with mismatches		brutefrmismt	
+16	N			bucket binary trie		bucketbinry	
+16	N			bucket trie		buckettrie	
+2	A			buddy system	ÓíÓÊã ÑİíŞ	buddysystem	
+11	S			buddy tree	ÏÑÎÊ ÑİíŞ	buddytree	
+14	A			build-heap		buildHeap	
+1	P			busy beaver		busyBeaver	
+11	S			BV-tree		bvtree	
+16	N			C curve		ccurve	
+14	S			cactus stack		cactusstack	
+16	N			calculated entry search		calculated	
+11	S			calendar queue		calendarQueue	
+11	D			candidate consistency testing		candidate	
+11	D			candidate verification		candidateVerification	
+14	S			cartesian tree		randomizedBinarySearchTree	
+16	N			cascade merge sort		cascademerg	
+4	A			Cayley-Purser		cayleypurser	
+14	D			CBT		completeBinaryTree	
+11	S			cell tree		celltree	
+16	N			cellar hashing		cellarhash	
+16	N			centered search		centered	
+11	S			chaining		chaining	
+11	D			clustering		clustering	
+11	D			clustering free		clusterngfr	
+11	S			coalesced hashing		coalescdhash	
+16	N			coalesced hashing with cellar		coalescdhsh	
+16	N			coalescing chain		coalesc	
+13	D			coarsening		coarsening	
+12	A			cocktail shaker sort		bidirectbubl	
+4	D			codeword		codeword	
+16	N			coding tree		codingTree	
+11	A			collision resolution scheme		collisionres	
+11	A			Colussi		colussi	
+3	A			combination		combination	
+14	S			compact DAWG		compactDAWG	
+14	D			complete k-ary tree		completeKaryTree	
+16	N			compressed trie		compressdtr	
+9	D			concurrent read, concurrent write		concurrentReadConWrt	
+9	D			concurrent read, exclusive write		concurrentReadExcluWrt	
+11	S			container		container	
+16	N			contamination hashing		contaminatn	
+3	D			covering		covering	
+4	A			CRC		cyclicRedundancyCheck	
+9	D			CRCW		concurrentReadConWrt	
+9	D			CREW		concurrentReadExcluWrt	
+13	D	/		CSP	Communicating Sequential Processes	csp	
+15	D			CTL		ctl	
+3	P			cutting stock problem		cuttingStock	
+4	A			cyclic redundancy check		cyclicRedundancyCheck	
+16	N			cyclic structure		cyclic	
+11	D			D-adjacent		dadjacent	
+16	N			d-prefix		dprefix	
+16	N			D-tree		dtree	
+14	S			DAWG		directedAcyclicWordGraph	
+6	T			decimation		pruneNsearch	
+13	D			depoissonization		depoissonztn	
+16	N			depth node		depthnode	
+16	N			depth trie		depthtrie	
+11	A			deterministic finite automata string search		determFinitAutSrch	
+11	D			dichotomic search		dichotomic	
+14	S			diet		discretintrv	
+16	N			digital B-tree		digitalbtre	
+16	N			digital decomposition		digital	
+16	N			digital indexing		digitalindx	
+14	S			digital search tree		digitalSearchTree	
+14	S			digital tree		digitaltree	
+11	S			direct chaining hashing		directchhash	
+14	S			directed acyclic word graph		directedAcyclicWordGraph	
+11	S			directory		dictionary	
+14	S			discrete interval encoding tree		discretintrv	
+16	N			division method		divisionmthd	
+11	D			don't care		dontcare	
+14	S			double-ended priority queue		doubleendpq	
+16	N			double left rotation		doubleleft	
+2	A			double metaphone		doubleMetaphone	
+16	N			double right rotation		doubleright	
+16	N			Dragon curve		dragoncurve	
+3	D			dual linear program		duallinear	
+16	N			dynamic set sorting		dynamicset	
+16	N			dynamic size hashing		dynamicsize	
+3	D			edit distance		editdistance	
+3	D			edit operation		editoperatin	
+3	D			edit script		editscript	
+3	P			eight queens		eightqueens	
+16	N			end-of-string		endofstring	
+14	S			enfilade		enfilade	
+16	N			entropy searching		entropysrch	
+9	D			ERCW		exclusiveReadConWrt	
+9	D			EREW		exclusiveReadExcluWrt	
+11	P			exact string matching		stringMatching	
+11	S			EXCELL		excell	
+9	D			exclusive read, concurrent write		exclusiveReadConWrt	
+9	D			exclusive read, exclusive write		exclusiveReadExcluWrt	
+11	T			exhaustive search		exhaustvsrch	
+16	N			expandable hashing		expandableHashing	
+14	S			extended binary tree		extendedBinaryTree	
+11	S			extended k-d tree		extendkdtree	
+11	S			extendible hashing		extendibleHashing	
+16	N			external hashing		externalhsh	
+11	S			external index		externalindx	
+14	D			external node		leaf	
+16	N			external path		externalpth	
+16	N			external searching		external	
+16	N			extract maximum		extractmxmm	
+11	A			extrapolation search		interpolationSearch	
+11	D			extremal		extremal	
+11	D			factor		substring	
+16	N			failure function		failure	
+16	N			false drop		falsedrop	
+16	N			fast fourier transform		fastFourierTransform	
+11	T			fathoming		fathoming	
+9	D			FFT		fastFourierTransform	
+11	A			Fibonacci search		fibonacciSearch	
+14	S			Fibonacci tree		fibonacciTree	
+14	S			Fibonnaci heap		fibonacciHeap	
+11	A			Find		find	
+11	P			find kth smallest element		selectkth	
+14	S			finitary tree		finitarytree	
+2	D			first-come, first-served		firstcome	
+16	N			fixed point		fixedpoint	
+16	N			Floyd's heap-construction		floydheap	
+3	D			forest editing problem		forestedit	
+11	S			forward index		forwardIndex	
+16	N			free list		freelist	
+14	D			free tree		freetree	
+16	N			fringe reorganization		fringe	
+16	N			full expansion		fullexpansn	
+11	S			full inverted index		fullInvertedIndex	
+16	N			full stability		fullstablty	
+16	N			full Steiner tree		fullSteinrTr	
+11	S			fully inverted index		fullInvertedIndex	
+16	N			functional data structure		activeDataStruc	
+11	S			fusion tree		fusiontree	
+11	A			Galil-Giancarlo		galilgiancar	
+11	A			Galil-Seiferas		galilseifers	
+16	N			gamma-type expansion		gammatype	
+14	S			GBD-tree		gbdtree	
+9	D			graph concentration		graphconcen	
+4	D			Gray code		graycode	
+16	N			greatest fixed point		greatestfixp	
+16	N			greedy tree		greedytree	
+4	D			grey code		graycode	
+11	S			grid file		gridfile	
+4	D			Hamming distance		hammingdist	
+16	N			Hanan's theorem		hananTheorem	
+11	S			hash heap		hashheap	
+11	A			hash table delete		hashtabdelet	
+16	N			hashing trie		hashingtrie	
+11	S			hB-tree		hbtree	
+14	S			heap		heap	
+14	D			heap condition		heapproperty	
+14	D			heap ordered		heapproperty	
+14	D			heap property		heapproperty	
+14	A			heapify		heapify	
+11	P			heaviest common subsequence		longestcommn	
+14	D			height		height	
+14	S			height-balanced binary search tree		heightBalancedBinSrchTree	
+14	S			height-balanced tree		heightBalancedTree	
+16	N			height tree		heighttree	
+16	N			hierarchical balance		hierarchicalBalance	
+16	N			hierarchical order		hierarchicalOrder	
+16	N			Hilbert curve		hilbertcurve	
+16	N			horizontal pointer		horizontal	
+11	A			Horspool		boyerMooreHorspool	
+16	N			Hu-Tucker algorithm		hutucker	
+4	A			Huffman encoding		huffmanEncoding	
+16	N			Hwang's theorem		hwangTheorem	
+16	N			Hwang and Lin merging		hwanglinmrg	
+16	N			hybrid Quicksort		hybridQuicksort	
+16	N			hybrid sorting		hybridsort	
+16	N			hybrid trie		hybridtrie	
+16	N			increment sequence		increment	
+16	N			index B-tree		indexbtree	
+11	S			index file		indexfile	
+16	N			inspect queue		inspectqueu	
+3	D			integer linear program		integerliner	
+16	N			interchangeability		intrchngblt	
+14	D			interior node		internalnode	
+16	N			interleaving		interleav	
+11	A			interpolation-sequential search		interpsequen	
+11	A			interpolation search		interpolationSearch	
+11	S			inverted file		invertedIndex	
+11	S			inverted file index		invertedFileIndex	
+11	S			inverted index		invertedIndex	
+3	A			Johnson-Trotter		johnsonTrotter	
+11	S			jump list		jumplist	
+11	A			jump search		jumpsearch	
+14	S			k-ary heap		karyheap	
+4	A			k-ary Huffman encoding		karyHuffman	
+14	D			k-ary tree		karyTree	
+16	N			k-balancing		kbalancing	
+16	N			k-clustering		kclustering	
+11	S			k-d-B-tree		kdbtree	
+11	S			k-d tree		kdtree	
+16	N			k-dimensional tree		kdimensnltr	
+3	D			K-dominant match		kdominant	
+16	N			k-height balanced		kheight	
+11	A			k-layered digraph		klayeredgrph	
+16	N			k-layered graph		klayeredgrph	
+16	N			k-prefix		kprefix	
+14	D			k-way tree		karyTree	
+16	N			Karmarkar's algorithm		karmarkarsAlgo	
+11	A			Karp-Rabin		karpRabin	
+11	A			KMP		knuthMorrisPratt	
+11	A			KmpSkip Search		kmpskipsrch	
+3	P			knapsack problem		knapsackProblem	
+3	P			knight's tour		knightstour	
+11	A			Knuth-Morris-Pratt algorithm		knuthMorrisPratt	
+11	P			kth smallest element		selectkth	
+3	D			Las Vegas algorithm		lasVegas	
+16	N			last-come-first-served hashing		lastcomfrst	
+16	N			LCFS hashing		lcfshashing	
+11	P			LCS		longestcommn	
+14	D			leaf		leaf	
+16	N			least fixed point		leastfixedpt	
+14	A			left rotation		leftrotation	
+16	N			left single rotation		leftsingle	
+16	N			leftist heap		leftistHeap	
+14	S			leftist tree		leftisttree	
+16	N			Legendre's identity		legendre	
+4	A			Lempel-Ziv		lempelZivWelch	
+4	A			Lempel-Ziv-Welch		lempelZivWelch	
+4	A			Lempel-Ziv-Welch data compression		lempelZivWelch	
+14	D			level order traversal		levelOrderTraversal	
+3	D			Levenshtein distance		editdistance	
+11	D			lexicographical order		lexicgrphcl	
+16	N			lexicographical tree		lexicgrphTre	
+8	A			linear congruential generator		linearCongruentGen	
+11	A			linear hash		linearhash	
+16	N			linear list		linearlist	
+11	S			linear probing		linearprobng	
+3	D			linear program		linearprogrm	
+11	S			linear quadtree		linearquadtr	
+11	A			linear search		linearSearch	
+9	D			list contraction		listcontrctn	
+11	D			load factor		loadfactor	
+11	D			local alignment		localalgnmnt	
+16	N			local optimum		localoptimum	
+11	D			locator		locator	
+11	P			longest common subsequence		longestcommn	
+11	P			longest common substring		longestcommn	
+16	N			lower bounds selection		lowerbounds	
+14	D			lowest common ancestor		lowestcommon	
+4	A			LZW compression		lempelZivWelch	
+7	A			Malhotra-Kumar-Maheshwari blocking flow		malhotraKumr	
+2	D			Marlena		marlena	
+3	D			Master theorem		mastertheorm	
+3	P			matrix-chain multiplication problem		matrxchnmltp	
+14	D			max-heap property		maxheapprop	
+13	D			MAX-SNP		mAXSNP	
+11	A			Maximal Shift		maximalshift	
+16	N			maximum-minimum search		maximummnmm	
+16	N			maximum search		maximumsrch	
+16	N			median split tree		medianSplitTree	
+14	D			meld		meld	
+11	T			metaheuristic		metaheuristic	
+2	A			metaphone		metaphone	
+8	D			midrange		midrange	
+8	A			Miller-Rabin		millerRabin	
+14	D			min-heap property		minheapprop	
+16	N			minimal-comparison merging		minimalcompm	
+11	A			minimal perfect hashing		minimalPerfectHash	
+16	N			minimum height tree		minimumhght	
+16	N			minimum path cover		minimmpthcvr	
+16	N			minimum search		minimumsrch	
+3	D			mixed integer linear program		mixedinteger	
+16	N			mode-centered search		modecenterd	
+11	A			MODIFIND		modifind	
+14	S			monotone priority queue		monotonprioq	
+3	D			Monte Carlo algorithm		monteCarlo	
+11	A			Morris-Pratt		morrispratt	
+11	A			move-to-front heuristic		movefront	
+11	A			move-to-root heuristic		movetoroot	
+14	S			multi suffix tree		multisufxtre	
+16	N			multidimensional search		multidmnsnl	
+11	S			multilayer grid file		multilaygrd	
+16	N			multiplication method		multplctnmth	
+9	A			multiprefix		multiprefix	
+9	D			multiprocessor model		multiprocssr	
+11	S			multiway search tree		multisrchtre	
+14	D			multiway tree		multiwaytree	
+3	P			n queens		nqueens	
+11	A			naive string search		bruteForceStringSearch	
+2	D			nand		nand	
+16	N			natural merge		naturalmerg	
+16	N			natural merge sort		naturlmrgsrt	
+16	N			natural selection		natural	
+13	D			NC		nc	
+16	N			negative-weight edge		negatvwghtdg	
+16	N			negative search		negativsrch	
+2	D			nor		nor	
+11	A			Not So Naive		notsonaive	
+13	D			NP		np	
+13	D			NP-complete		npcomplete	
+13	D			NP-hard		nphard	
+14	D			null tree		nulltree	
+16	N			OBDD		obdd	
+11	D			occurrence		occurrence	
+11	S			octree		octtree	
+11	S			octtree		octtree	
+11	D			offset		offset	
+16	N			one-sided height balanced		onesided	
+11	A			open addressing		openaddress	
+16	N			optimal binary tree search		optimalbnry	
+16	N			optimal external hashing		optimlexhash	
+11	A			optimal hashing		perfecthash	
+11	A			optimal mismatch		optimalMismatch	
+16	N			optimal sequential search		optimseqsrch	
+11	A			order preserving minimal perfect hashing		orderpresmph	
+11	S			ordered array		orderedarry	
+16	N			ordered binary tree		orderedbnry	
+16	N			ordered hashing		orderedhash	
+14	S			ordered tree		orderedtree	
+16	N			orthogonal lists		orthognllsts	
+16	N			OSHB tree		oshbtree	
+16	N			overlapping subproblems		ovrlppngsbpr	
+13	D			P		p	
+13	D			P-complete		pcomplete	
+14	S			P-tree		ptree	
+3	D			packing		packing	
+14	S			pagoda		pagoda	
+16	N			pairing heap		pairingHeap	
+11	D			PAM		pointaccess	
+9	D			parallel computation thesis		parallel	
+9	A			parallel prefix computation		parallprefix	
+9	D			parallel random-access machine		parallelRandomAccessMachine	
+14	D			parent		parent	
+16	N			partial-match searching		partialmtch	
+3	D			partition		partition	
+16	N			partition method		partitnmeth	
+16	N			PAT		pat	
+16	N			PAT tree		pattree	
+16	N			path-balanced tree		pathbalancd	
+16	N			path cover		pathcover	
+9	P			path system problem		pathsystem	
+16	N			path tree		pathtree	
+14	S			Patricia tree		patriciatree	
+11	D			pattern		pattern	
+11	D			pattern element		patternelmnt	
+16	N			pattern matching		patternmtch	
+16	N			pattern matching machine		patternmtc1	
+13	P			PCP		postsCorrespondProb	
+16	N			Peano curve		peanocurve	
+11	A			Pearson's hash		pearsonshash	
+14	D			perfect binary tree		perfectBinaryTree	
+16	N			perfect distribution		perfectDistribution	
+11	A			perfect hashing		perfecthash	
+16	N			perfectly balanced k-d tree		perfectly	
+3	A			permutation		permutation	
+3	A			permute		permutation	
+16	N			persistent binary search tree		persstntbnry	
+3	D			picture		picture	
+12	S			pile		pile	
+9	T			pipelined divide and conquer		pipelineddvd	
+11	S			PLOP-hashing		plophashing	
+11	D			point access method		pointaccess	
+9	D			pointer jumping		pointerjump	
+11	D			polychotomy		polychotomy	
+16	N			polynomial-time computable		polynmltmcmp	
+16	N			polynomial-time solvable		polynmltmslv	
+16	N			polynomial-time verification		polynmltmvrf	
+2	D			polytope		polytope	
+16	N			positive search		positivsrch	
+16	N			post-office location problem		postffclctnp	
+16	N			Post machine		postMachine	
+14	D			postfix traversal		postordrtrvs	
+14	D			postorder traversal		postordrtrvs	
+16	N			power-p Steiner tree		powerpSteinr	
+9	D			PRAM		parallelRandomAccessMachine	
+16	N			preconditioning		preconditin	
+16	N			predicate		predicate	
+11	D			prefix		prefix	
+16	N			prefix B-tree		prefixbtree	
+4	D			prefix code		prefixcode	
+16	N			prefix computation		prefixcmpttn	
+16	N			prefix search		prefixserch	
+9	A			prefix sums		scan	
+14	D			prefix traversal		preordertrvs	
+14	D			preorder traversal		preordertrvs	
+11	D			primary clustering		primaryclstr	
+3	D			principle of optimality		principle	
+16	N			priority tree		prioritytre	
+11	D			probe sequence		probesequenc	
+11	S			prop list		dictionary	
+11	S			property list		dictionary	
+16	N			proximity searching		proximity	
+16	N			pseudorandom probing		pseudorandomProbing	
+13	D			PSPACE		pspace	
+13	T	/		PTAS	polynomial-time approximation scheme	polynomaprox	
+14	S			quad trie		quadtrie	
+11	A			quadratic hashing		quadraticprb	
+11	A			quadratic probing		quadraticprb	
+11	S			quadtree		quadtree	
+11	A			quick search		quicksearch	
+11	A			quick select		select	
+16	N			Quicker sort		quickersort	
+11	S			R-file		rfile	
+14	S			R-tree		rtree	
+14	S			R*-tree		rstartree	
+11	S			R+-tree		rplustree	
+11	A			Rabin-Karp		karpRabin	
+11	S			radix quicksort		threeWayRadixQuicksort	
+11	A			Raita		raita	
+9	T			random sampling		randomsampl	
+16	N			Randomized-Select		randomzdSlct	
+14	S			randomized binary search tree		randomizedBinarySearchTree	
+14	S			randomized search tree		randomizedSearchTree	
+16	N			range search		rangesearch	
+11	D			rank		rank	
+11	A			Ratcliff/Obershelp pattern recognition		ratcliffObershelp	
+14	S			RBST		randomizedBinarySearchTree	
+14	A			rebalance		rebalance	
+9	D			recursive doubling		recursivedbl	
+14	S			red-black tree		redblack	
+14	S			reduced ordered binary decision diagram		reducedOrderedBDD	
+16	N			rehashing		doublehashng	
+7	A			relational coarsest partitioning		relatnlcoars	
+14	D			relaxed balance		relaxdbalanc	
+16	N			result cache		resultcache	
+11	A			Reverse Colussi		reverseColus	
+11	A			Reverse Factor		reversefactr	
+14	S			right-threaded tree		rightThreadedTree	
+14	A			right rotation		rightrotatn	
+16	N			right single rotation		rightsingle	
+14	S			ROBDD		reducedOrderedBDD	
+16	N			Robin Hood hashing		robinhodhsh	
+14	D			root		root	
+14	D			root balance		balance	
+14	D			rooted tree		rootedtree	
+14	A			rotate left		leftrotation	
+14	A			rotate right		rightrotatn	
+14	D			rotation		rotation	
+14	S			saguaro stack		cactusstack	
+11	D			SAM		spatialAccessMethod	
+14	S			SBB tree		sbbtree	
+9	A			scan		scan	
+14	A			scapegoat tree		scapegoatTree	
+11	A			search		search	
+14	S			search tree		searchtree	
+14	D			search tree property		searchtrprop	
+11	A			secant search		secantSearch	
+11	D			secondary clustering		secondaryclu	
+11	D			segment		segment	
+11	A			Select		select	
+11	P			select and partition		selectAndPartition	
+11	P			select kth element		selectkth	
+11	A			select mode		selectmode	
+11	P			selection problem		selectkth	
+16	N			self-adjusting hashing		selfadjust	
+11	A			self-organizing sequential search		transposeSeqSearch	
+11	T			self-organizing strategy		selforganiz	
+3	D			semidefinite programming		semidefinite	
+16	N			sentinel		sentinel	
+16	N			sentinel sorting		sentinelsrt	
+11	S			separate chaining hashing		separatchain	
+16	N			sequence		sequence	
+16	N			sequential list		sequentllst	
+16	N			sequential order		sequentlrdr	
+16	N			sequential processing		sequential	
+11	A			sequential search		linearSearch	
+3	D			set cover		setcover	
+3	D			set covering problem		setcover	
+3	P			set packing		setpacking	
+14	S			shadow heap		shadowheap	
+14	A			shadow merge		shadowmerge	
+14	A			shadow merge insert		shadowmrgins	
+12	A			shaker sort		bidirectbubl	
+16	N			Shannon-Fano coding		shannonFano	
+16	N			shape heuristic		shapeherstc	
+16	N			shape parameter		shapeparmtr	
+16	N			shared structure		shared	
+11	A			Shift-Or		shiftOr	
+9	D			short cutting		pointerjump	
+9	D			shortcutting		pointerjump	
+3	D			shortest common supersequence		shortestCommonSuperseq	
+3	D			shortest common superstring		shortestCommonSuperseq	
+3	A			shuffle		permutation	
+14	D			sibling		sibling	
+16	N			Sierpinski curve		sierpinskcrv	
+8	A			sieve of Eratosthenes		sieve	
+14	A			sift up		siftup	
+11	A			Simon's algorithm		simonsAlgo	
+11	A			Simon algorithm		simonsAlgo	
+16	N			simple uniform hashing		simplnfrmhsh	
+11	A			simplex		simplex	
+11	A			simulated annealing		simulatedAnnealing	
+9	D			single program multiple data		singleprogrm	
+16	N			single rotation		singlerottn	
+14	S			skd-tree		skdtree	
+16	N			skew heap		skewHeap	
+11	S			skip list		skiplist	
+11	A			Skip Search		skipSearch	
+11	A			Smith-Waterman algorithm		smithWaterman	
+11	A			Smith algorithm		smithAlgorithm	
+16	N			Smoothsort		smoothsort	
+16	N			snowflake		snowflake	
+11	S			sorted array		sortedarray	
+11	A			sorted array search		sortedarsrch	
+11	S			sorted list		sortedlist	
+2	A			soundex		soundex	
+14	S			spaghetti stack		cactusstack	
+14	D			spanning tree		spanningtree	
+11	D			sparsity		sparsity	
+11	D			spatial access method		spatialAccessMethod	
+16	N			spectral test		spectraltest	
+14	S			splay tree		splaytree	
+14	S			splaying		splaytree	
+16	N			split-sequence hashing		splitsequnc	
+9	D			SPMD		singleprogrm	
+16	N			st-digraph		stdigraph	
+16	N			start symbol		startsymbol	
+3	D			static		static	
+4	A			static Huffman encoding		huffmanEncoding	
+16	N			static table		statictable	
+16	N			static tree		statictree	
+16	N			Steiner arborescence		steinerArbor	
+3	A			Steinhaus-Johnson-Trotter		johnsonTrotter	
+16	N			straight merge sort		strghtmrgsrt	
+3	D			string editing problem		stringedit	
+11	P			string matching		stringMatching	
+11	A			string matching on ordered alphabets		stringMatchOrdAlphabet	
+11	A			string matching with errors		stringMatchwError	
+11	A			string matching with mismatches		stringMatchwMismatch	
+11	P			string search		stringMatching	
+11	P			string searching		stringMatching	
+16	N			string similarity search		stringsimsr	
+3	P			strip packing		strippacking	
+7	A			strong bisimulation partitioning		strongbisim	
+16	N			strongly connected		stronglyConnected	
+16	N			strongly connected components		stronglyConnectedCompo	
+13	D			strongly NP-hard		stronglyNP	
+11	D			subsequence		subsequence	
+11	D			substring		substring	
+14	D			subtree		subtree	
+11	D			subword		substring	
+11	D			suffix		suffix	
+11	S			suffix array		suffixarray	
+14	S			suffix tree		suffixtree	
+4	D			superimposed code		superimposedCode	
+16	N			superimposition		superimpstn	
+14	S			symmetric binary B-tree		redblack	
+9	T			symmetry breaking		symmetrybrek	
+16	N			tape searching		tapesearch	
+16	N			terminal symbol		terminalsymb	
+11	S			ternary search tree		ternarySearchTree	
+11	P			text match		stringMatching	
+11	P			text searching		stringMatching	
+14	S			threaded binary tree		threadedBinaryTree	
+14	S			threaded tree		threadedtree	
+16	N			three-way radix quicksort		threeWayRadixQuicksort	
+13	D			time-constructible function		time	
+14	D			topology tree		topologytree	
+9	A			tournament		tournament	
+3	P			towers of Hanoi		towersOfHanoi	
+3	D			transitive closure		transitiveClosure	
+16	N			transitive edge		transitivedg	
+16	N			transpose heuristic		transpose	
+16	N			transpose heuristic tree		transpose1	
+11	A			transpose sequential search		transposeSeqSearch	
+14	S			treap		treap	
+14	S			tree		tree	
+9	D			tree contraction		treecontrctn	
+3	D			tree editing problem		treeedit	
+16	N			tree searching		treesearch	
+14	D			tree traversal		treetravrsl	
+14	S			trie		trie	
+3	A			tripartition		tripartition	
+11	S			TST		ternarySearchTree	
+11	A			Turbo-BM		turboBM	
+11	A			Turbo Reverse Factor		turboRevFact	
+11	S			twin grid file		twingridfl	
+16	N			two-dimensional search		twodimensrch	
+11	S			two-level grid file		twolevgrid	
+11	A			Two Way algorithm		twoWay	
+16	N			unary node		unarynode	
+16	N			uncertainty searching		uncertainty	
+11	A			uniform hashing		uniformhashn	
+16	N			uniform probing hashing		uniformprob	
+16	N			universal class of hashing functions		universal	
+11	D			universal hashing		universalhsh	
+12	A			UnShuffle sort		unshufflsort	
+14	S			Van Emde-Boas priority queue		vanemdeboas	
+16	N			virtual hashing		virtualHashing	
+11	S			weak-heap		weakheap	
+14	S			weight-balanced tree		weightbaltre	
+16	N			Williams' insertion algorithm		williams	
+11	D			window		window	
+3	D			witness		witness	
+9	D			work		work	
+9	D			work-depth model		workdepthmdl	
+9	D			work-efficient		workefficint	
+9	D			work-preserving		workpreserv	
+11	D			worst-case minimum access		worstCaseMinimumAccess	
+4	D			Yule distribution		zipfian	
+11	A			Zhu-Takaoka		zhuTakaoka	
+4	D			Zipf's law		zipfslaw	
+4	D			Zipfian distribution		zipfian	

@@ -1,0 +1,25 @@
+adjacency list	áíÓÊ åãÓÇíí	M. Mahdian	http://www.mit.edu/~mahdian	
+complexity class	ßáÇÓ ííÏí	M. Mahdian	http://www.mit.edu/~mahdian	
+expander graph	ÑÇİ ÈÓØÏåäÏå	M. Mahdian	http://www.mit.edu/~mahdian	
+implication	äÊíÌå	M. Mahdian	http://www.mit.edu/~mahdian	
+sparse matrix	ãÇÊÑíÓ Êõäß	M. Mahdian	http://www.mit.edu/~mahdian	
+rectilinear	ÇİŞí-ÚãæÏí	M. Mahdian	http://www.mit.edu/~mahdian	
+reduction	ÊŞáíá	M. Mahdian	http://www.mit.edu/~mahdian	
+breadth first search	ÌÓÊæÌæí ÓØÍí	H. Zarrabi	http://basu.ac.ir/~zarrabi	
+depth first search	ÌÓÊæÌæí ÚãŞí	H. Zarrabi	http://basu.ac.ir/~zarrabi	
+coNP	coNP 	M. Mahdian	http://www.mit.edu/~mahdian	
+oracle set	ãÌãæÚåí ÛíÈæ	Roozbeh	mailto:roozbeh@sharif.edu	
+Communicating Sequential Processes	ÑÏÇÒååÇí ÊÑÊíÈí ÏÑÇÑÊÈÇØ	Roozbeh	mailto:roozbeh@sharif.edu	
+automaton	ÎæÏÑÏ	B. Parhami	mailto:parhami@ece.ucsb.edu	
+deterministic	äÇãÔßøß	B. Parhami	mailto:parhami@ece.ucsb.edu	
+fuzzy set	ÊÇÈÚ äÇæÇÖÍ	B. Parhami	mailto:parhami@ece.ucsb.edu	
+layered graph	ÑÇİ áÇíåáÇíåÔÏå	B. Parhami	mailto:parhami@ece.ucsb.edu	
+layered graph	ÑÇİ áÇíåÇí	B. Parhami	mailto:parhami@ece.ucsb.edu	
+memoization	íÇÏÏÇÑí	B. Parhami	mailto:parhami@ece.ucsb.edu	
+move	Çã (ŞÏã)	B. Parhami	mailto:parhami@ece.ucsb.edu	
+oracle set	ãÌãæÚåí íÔäÇÑ	B. Parhami	mailto:parhami@ece.ucsb.edu	
+randomization	ÏÑåãÑíÒí	B. Parhami	mailto:parhami@ece.ucsb.edu	
+tractable	íÑÏĞíÑ	B. Parhami	mailto:parhami@ece.ucsb.edu	
+nondeterministic	ãÔßøß	B. Parhami	mailto:parhami@ece.ucsb.edu	
+reflexive	ÈÇÒÊÇÈäÏå	B. Parhami	mailto:parhami@ece.ucsb.edu	
+heap sort	ãÑÊÈÓÇÒ ÊæÏåÇí!	M. Mahdian	http://www.mit.edu/~mahdian	

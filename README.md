@@ -2,7 +2,8 @@ A Utility for looking up meaningfull persian translation of computer terms
 
 Contributions are welcome:
 * Web/Console/Desktop UI
-* Add content to `words/*`
+* Add well-formed content to `words/*`
+* Add any content to `todo/*`
 * Convert content of `todo/*` to files in `words/*`
 * Export/import to/from other formats
 * Any other idea
